@@ -1,0 +1,693 @@
+fileFormatVersion: 2
+guid: 6742d38c1678c604d989eae22a2ec5ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6200209025687868351
+    second: Accessory_08_Detective_Hat_32x32_02_0
+  - first:
+      213: -1824295324245661015
+    second: Accessory_08_Detective_Hat_32x32_02_1
+  - first:
+      213: -2031818279615949655
+    second: Accessory_08_Detective_Hat_32x32_02_2
+  - first:
+      213: 3254196422085957214
+    second: Accessory_08_Detective_Hat_32x32_02_3
+  - first:
+      213: -9032835706002268031
+    second: Accessory_08_Detective_Hat_32x32_02_4
+  - first:
+      213: -390582873673815162
+    second: Accessory_08_Detective_Hat_32x32_02_5
+  - first:
+      213: -1928533035911335611
+    second: Accessory_08_Detective_Hat_32x32_02_6
+  - first:
+      213: -2471617835589614767
+    second: Accessory_08_Detective_Hat_32x32_02_7
+  - first:
+      213: -6056448965880391247
+    second: Accessory_08_Detective_Hat_32x32_02_8
+  - first:
+      213: -7218341677432534093
+    second: Accessory_08_Detective_Hat_32x32_02_9
+  - first:
+      213: 3972661825064772436
+    second: Accessory_08_Detective_Hat_32x32_02_10
+  - first:
+      213: 7636598242958576090
+    second: Accessory_08_Detective_Hat_32x32_02_11
+  - first:
+      213: 71943696554774243
+    second: Accessory_08_Detective_Hat_32x32_02_12
+  - first:
+      213: 3516293432623328235
+    second: Accessory_08_Detective_Hat_32x32_02_13
+  - first:
+      213: 3924474235114125403
+    second: Accessory_08_Detective_Hat_32x32_02_14
+  - first:
+      213: 7800671049434987352
+    second: Accessory_08_Detective_Hat_32x32_02_15
+  - first:
+      213: 6565847585921439536
+    second: Accessory_08_Detective_Hat_32x32_02_16
+  - first:
+      213: 6180529170358737472
+    second: Accessory_08_Detective_Hat_32x32_02_17
+  - first:
+      213: -3953900447519864073
+    second: Accessory_08_Detective_Hat_32x32_02_18
+  - first:
+      213: -1450193235386805719
+    second: Accessory_08_Detective_Hat_32x32_02_19
+  - first:
+      213: 3628615681436574556
+    second: Accessory_08_Detective_Hat_32x32_02_20
+  - first:
+      213: -2573271872124891111
+    second: Accessory_08_Detective_Hat_32x32_02_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Accessory_08_Detective_Hat_32x32_02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1273
+        width: 129
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3db4d32419b0650800000000000000
+      internalID: 6200209025687868351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_08_Detective_Hat_32x32_02_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1209
+        width: 769
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa6ee0711dcea6e0800000000000000
+      internalID: -1824295324245661015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_08_Detective_Hat_32x32_02_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1145
+        width: 769
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4985b2a088dc3e0800000000000000
+      internalID: -2031818279615949655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_08_Detective_Hat_32x32_02_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1093
+        width: 193
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56d7c7876a392d20800000000000000
+      internalID: 3254196422085957214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_08_Detective_Hat_32x32_02_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1017
+        width: 385
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180254d88cbe4a280800000000000000
+      internalID: -9032835706002268031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_08_Detective_Hat_32x32_02_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 953
+        width: 385
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b225f12fe549af0800000000000000
+      internalID: -390582873673815162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_08_Detective_Hat_32x32_02_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 889
+        width: 385
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54136e0fb697c35e0800000000000000
+      internalID: -1928533035911335611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_08_Detective_Hat_32x32_02_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 825
+        width: 385
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15349297cac03bdd0800000000000000
+      internalID: -2471617835589614767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_08_Detective_Hat_32x32_02_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 761
+        width: 769
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9da6401cb23fba0800000000000000
+      internalID: -6056448965880391247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_08_Detective_Hat_32x32_02_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 689
+        width: 1537
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb8c312d7c43db90800000000000000
+      internalID: -7218341677432534093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_08_Detective_Hat_32x32_02_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 633
+        width: 1281
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453adbfb1eab12730800000000000000
+      internalID: 3972661825064772436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_08_Detective_Hat_32x32_02_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 565
+        width: 1792
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad90beb34a5aaf960800000000000000
+      internalID: 7636598242958576090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_08_Detective_Hat_32x32_02_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 1151
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eec9fc29689ff000800000000000000
+      internalID: 71943696554774243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_08_Detective_Hat_32x32_02_13
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 505
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb6d813f326cc030800000000000000
+      internalID: 3516293432623328235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_08_Detective_Hat_32x32_02_14
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 501
+        width: 609
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58762a2688867630800000000000000
+      internalID: 3924474235114125403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_08_Detective_Hat_32x32_02_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 769
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bfe3f5dfc814c60800000000000000
+      internalID: 7800671049434987352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_08_Detective_Hat_32x32_02_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 769
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037143097939e1b50800000000000000
+      internalID: 6565847585921439536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_08_Detective_Hat_32x32_02_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 769
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a1c2bd886a5c550800000000000000
+      internalID: 6180529170358737472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_08_Detective_Hat_32x32_02_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 513
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa025cdd7ce029c0800000000000000
+      internalID: -3953900447519864073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_08_Detective_Hat_32x32_02_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 769
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92258159fe0efdbe0800000000000000
+      internalID: -1450193235386805719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_08_Detective_Hat_32x32_02_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 385
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53607eacbe6b5230800000000000000
+      internalID: 3628615681436574556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_08_Detective_Hat_32x32_02_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 385
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910dd77bdd6e94cd0800000000000000
+      internalID: -2573271872124891111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

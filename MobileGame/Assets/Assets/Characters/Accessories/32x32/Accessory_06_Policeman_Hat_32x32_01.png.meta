@@ -1,0 +1,6843 @@
+fileFormatVersion: 2
+guid: d73b734e706427143982f40010fed8eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1829528175561483783
+    second: Accessory_06_Policeman_Hat_32x32_01_0
+  - first:
+      213: 7648200724200517298
+    second: Accessory_06_Policeman_Hat_32x32_01_1
+  - first:
+      213: -2716093802208632814
+    second: Accessory_06_Policeman_Hat_32x32_01_2
+  - first:
+      213: 9010128811348610698
+    second: Accessory_06_Policeman_Hat_32x32_01_3
+  - first:
+      213: -7806169439910010112
+    second: Accessory_06_Policeman_Hat_32x32_01_4
+  - first:
+      213: 6198324839871120878
+    second: Accessory_06_Policeman_Hat_32x32_01_5
+  - first:
+      213: -7055106513889970591
+    second: Accessory_06_Policeman_Hat_32x32_01_6
+  - first:
+      213: -3359024250251130349
+    second: Accessory_06_Policeman_Hat_32x32_01_7
+  - first:
+      213: 6235918804783216483
+    second: Accessory_06_Policeman_Hat_32x32_01_8
+  - first:
+      213: 4989202292825637150
+    second: Accessory_06_Policeman_Hat_32x32_01_9
+  - first:
+      213: 5423272203105413415
+    second: Accessory_06_Policeman_Hat_32x32_01_10
+  - first:
+      213: -4739332243083645988
+    second: Accessory_06_Policeman_Hat_32x32_01_11
+  - first:
+      213: -3378919768146509725
+    second: Accessory_06_Policeman_Hat_32x32_01_12
+  - first:
+      213: 1565792723480816422
+    second: Accessory_06_Policeman_Hat_32x32_01_13
+  - first:
+      213: 8385830944767364173
+    second: Accessory_06_Policeman_Hat_32x32_01_14
+  - first:
+      213: -1948875171835800895
+    second: Accessory_06_Policeman_Hat_32x32_01_15
+  - first:
+      213: -1971343747564763582
+    second: Accessory_06_Policeman_Hat_32x32_01_16
+  - first:
+      213: 5424520011066053834
+    second: Accessory_06_Policeman_Hat_32x32_01_17
+  - first:
+      213: -2946902396776599559
+    second: Accessory_06_Policeman_Hat_32x32_01_18
+  - first:
+      213: 2373104258270579562
+    second: Accessory_06_Policeman_Hat_32x32_01_19
+  - first:
+      213: -42070157548572815
+    second: Accessory_06_Policeman_Hat_32x32_01_20
+  - first:
+      213: 8412207312220910023
+    second: Accessory_06_Policeman_Hat_32x32_01_21
+  - first:
+      213: -7962150415870605583
+    second: Accessory_06_Policeman_Hat_32x32_01_22
+  - first:
+      213: 4018404252133278358
+    second: Accessory_06_Policeman_Hat_32x32_01_23
+  - first:
+      213: -3731226340760895906
+    second: Accessory_06_Policeman_Hat_32x32_01_24
+  - first:
+      213: 8375910201160331838
+    second: Accessory_06_Policeman_Hat_32x32_01_25
+  - first:
+      213: 4304839280761779940
+    second: Accessory_06_Policeman_Hat_32x32_01_26
+  - first:
+      213: 616020397962846478
+    second: Accessory_06_Policeman_Hat_32x32_01_27
+  - first:
+      213: -7815247537309109082
+    second: Accessory_06_Policeman_Hat_32x32_01_28
+  - first:
+      213: -1783540801229535492
+    second: Accessory_06_Policeman_Hat_32x32_01_29
+  - first:
+      213: 1922206354305943367
+    second: Accessory_06_Policeman_Hat_32x32_01_30
+  - first:
+      213: 2219411189458055763
+    second: Accessory_06_Policeman_Hat_32x32_01_31
+  - first:
+      213: -580121302257092340
+    second: Accessory_06_Policeman_Hat_32x32_01_32
+  - first:
+      213: 340596697439462804
+    second: Accessory_06_Policeman_Hat_32x32_01_33
+  - first:
+      213: 1971392380427431743
+    second: Accessory_06_Policeman_Hat_32x32_01_34
+  - first:
+      213: -1145148673255515687
+    second: Accessory_06_Policeman_Hat_32x32_01_35
+  - first:
+      213: -3853408027274360870
+    second: Accessory_06_Policeman_Hat_32x32_01_36
+  - first:
+      213: 6298991793285001328
+    second: Accessory_06_Policeman_Hat_32x32_01_37
+  - first:
+      213: -6030968831179594110
+    second: Accessory_06_Policeman_Hat_32x32_01_38
+  - first:
+      213: -2049313468375131637
+    second: Accessory_06_Policeman_Hat_32x32_01_39
+  - first:
+      213: 6612847214829188462
+    second: Accessory_06_Policeman_Hat_32x32_01_40
+  - first:
+      213: -5085767710977845572
+    second: Accessory_06_Policeman_Hat_32x32_01_41
+  - first:
+      213: -309012636096223539
+    second: Accessory_06_Policeman_Hat_32x32_01_42
+  - first:
+      213: -1312181018243294044
+    second: Accessory_06_Policeman_Hat_32x32_01_43
+  - first:
+      213: 4130731441487564259
+    second: Accessory_06_Policeman_Hat_32x32_01_44
+  - first:
+      213: -5931771641448901538
+    second: Accessory_06_Policeman_Hat_32x32_01_45
+  - first:
+      213: 7620509899415773333
+    second: Accessory_06_Policeman_Hat_32x32_01_46
+  - first:
+      213: -8470672792851978236
+    second: Accessory_06_Policeman_Hat_32x32_01_47
+  - first:
+      213: -5902446495832204802
+    second: Accessory_06_Policeman_Hat_32x32_01_48
+  - first:
+      213: 873560245332039220
+    second: Accessory_06_Policeman_Hat_32x32_01_49
+  - first:
+      213: 4017208390371174917
+    second: Accessory_06_Policeman_Hat_32x32_01_50
+  - first:
+      213: -3604111584693575215
+    second: Accessory_06_Policeman_Hat_32x32_01_51
+  - first:
+      213: 8710407429090980033
+    second: Accessory_06_Policeman_Hat_32x32_01_52
+  - first:
+      213: 8015833439273165086
+    second: Accessory_06_Policeman_Hat_32x32_01_53
+  - first:
+      213: 2250795887247809387
+    second: Accessory_06_Policeman_Hat_32x32_01_54
+  - first:
+      213: -7271291967817405035
+    second: Accessory_06_Policeman_Hat_32x32_01_55
+  - first:
+      213: -8613558950328459179
+    second: Accessory_06_Policeman_Hat_32x32_01_56
+  - first:
+      213: 173341484942929009
+    second: Accessory_06_Policeman_Hat_32x32_01_57
+  - first:
+      213: 4983298686521956778
+    second: Accessory_06_Policeman_Hat_32x32_01_58
+  - first:
+      213: 2897387887878121441
+    second: Accessory_06_Policeman_Hat_32x32_01_59
+  - first:
+      213: 4251651481040404185
+    second: Accessory_06_Policeman_Hat_32x32_01_60
+  - first:
+      213: 4075825515577072857
+    second: Accessory_06_Policeman_Hat_32x32_01_61
+  - first:
+      213: 6610745133881004499
+    second: Accessory_06_Policeman_Hat_32x32_01_62
+  - first:
+      213: -1003456315925063224
+    second: Accessory_06_Policeman_Hat_32x32_01_63
+  - first:
+      213: -8312212733564142309
+    second: Accessory_06_Policeman_Hat_32x32_01_64
+  - first:
+      213: 2149259517850795204
+    second: Accessory_06_Policeman_Hat_32x32_01_65
+  - first:
+      213: -8834873446285658819
+    second: Accessory_06_Policeman_Hat_32x32_01_66
+  - first:
+      213: 5876290755293882181
+    second: Accessory_06_Policeman_Hat_32x32_01_67
+  - first:
+      213: 2831638372146321287
+    second: Accessory_06_Policeman_Hat_32x32_01_68
+  - first:
+      213: 509253814702142847
+    second: Accessory_06_Policeman_Hat_32x32_01_69
+  - first:
+      213: -3698828066717339314
+    second: Accessory_06_Policeman_Hat_32x32_01_70
+  - first:
+      213: -5506219373880892946
+    second: Accessory_06_Policeman_Hat_32x32_01_71
+  - first:
+      213: 8732373642921407969
+    second: Accessory_06_Policeman_Hat_32x32_01_72
+  - first:
+      213: 2113788511263207194
+    second: Accessory_06_Policeman_Hat_32x32_01_73
+  - first:
+      213: 2717915412987388155
+    second: Accessory_06_Policeman_Hat_32x32_01_74
+  - first:
+      213: 5996266190361925149
+    second: Accessory_06_Policeman_Hat_32x32_01_75
+  - first:
+      213: 9075839086588625209
+    second: Accessory_06_Policeman_Hat_32x32_01_76
+  - first:
+      213: -3830453329561857075
+    second: Accessory_06_Policeman_Hat_32x32_01_77
+  - first:
+      213: 2817741021500468863
+    second: Accessory_06_Policeman_Hat_32x32_01_78
+  - first:
+      213: -4967809637206399843
+    second: Accessory_06_Policeman_Hat_32x32_01_79
+  - first:
+      213: -4880289240538370836
+    second: Accessory_06_Policeman_Hat_32x32_01_80
+  - first:
+      213: -1768787008261412598
+    second: Accessory_06_Policeman_Hat_32x32_01_81
+  - first:
+      213: 1288386453322969649
+    second: Accessory_06_Policeman_Hat_32x32_01_82
+  - first:
+      213: 8673832133209216939
+    second: Accessory_06_Policeman_Hat_32x32_01_83
+  - first:
+      213: -258692330593480005
+    second: Accessory_06_Policeman_Hat_32x32_01_84
+  - first:
+      213: 1849618204077472627
+    second: Accessory_06_Policeman_Hat_32x32_01_85
+  - first:
+      213: 2308333379311556894
+    second: Accessory_06_Policeman_Hat_32x32_01_86
+  - first:
+      213: 1479173339591300110
+    second: Accessory_06_Policeman_Hat_32x32_01_87
+  - first:
+      213: -5714929518578062540
+    second: Accessory_06_Policeman_Hat_32x32_01_88
+  - first:
+      213: 5858425676980986951
+    second: Accessory_06_Policeman_Hat_32x32_01_89
+  - first:
+      213: -6710090140132937075
+    second: Accessory_06_Policeman_Hat_32x32_01_90
+  - first:
+      213: 2967078700714315580
+    second: Accessory_06_Policeman_Hat_32x32_01_91
+  - first:
+      213: 4075977153280584806
+    second: Accessory_06_Policeman_Hat_32x32_01_92
+  - first:
+      213: 2845110475706681494
+    second: Accessory_06_Policeman_Hat_32x32_01_93
+  - first:
+      213: 6521278365431994763
+    second: Accessory_06_Policeman_Hat_32x32_01_94
+  - first:
+      213: 1622493203849790392
+    second: Accessory_06_Policeman_Hat_32x32_01_95
+  - first:
+      213: -4654653491712589267
+    second: Accessory_06_Policeman_Hat_32x32_01_96
+  - first:
+      213: -902258377005134572
+    second: Accessory_06_Policeman_Hat_32x32_01_97
+  - first:
+      213: 8899689742295731157
+    second: Accessory_06_Policeman_Hat_32x32_01_98
+  - first:
+      213: 8045336403361086189
+    second: Accessory_06_Policeman_Hat_32x32_01_99
+  - first:
+      213: 9051600867420100857
+    second: Accessory_06_Policeman_Hat_32x32_01_100
+  - first:
+      213: -6310851195256789156
+    second: Accessory_06_Policeman_Hat_32x32_01_101
+  - first:
+      213: -7628223071009693483
+    second: Accessory_06_Policeman_Hat_32x32_01_102
+  - first:
+      213: 7523669182457602636
+    second: Accessory_06_Policeman_Hat_32x32_01_103
+  - first:
+      213: 8229713479022636788
+    second: Accessory_06_Policeman_Hat_32x32_01_104
+  - first:
+      213: 7230335830871653039
+    second: Accessory_06_Policeman_Hat_32x32_01_105
+  - first:
+      213: 3794828489663954790
+    second: Accessory_06_Policeman_Hat_32x32_01_106
+  - first:
+      213: 374261089652861180
+    second: Accessory_06_Policeman_Hat_32x32_01_107
+  - first:
+      213: -1911251359797361639
+    second: Accessory_06_Policeman_Hat_32x32_01_108
+  - first:
+      213: 5021493361002713742
+    second: Accessory_06_Policeman_Hat_32x32_01_109
+  - first:
+      213: 567934004531824285
+    second: Accessory_06_Policeman_Hat_32x32_01_110
+  - first:
+      213: 7867083491462646358
+    second: Accessory_06_Policeman_Hat_32x32_01_111
+  - first:
+      213: -8653628761714957345
+    second: Accessory_06_Policeman_Hat_32x32_01_112
+  - first:
+      213: -5512169655241686254
+    second: Accessory_06_Policeman_Hat_32x32_01_113
+  - first:
+      213: 8141606746817420895
+    second: Accessory_06_Policeman_Hat_32x32_01_114
+  - first:
+      213: 726662944307735995
+    second: Accessory_06_Policeman_Hat_32x32_01_115
+  - first:
+      213: -2706232139581119081
+    second: Accessory_06_Policeman_Hat_32x32_01_116
+  - first:
+      213: 1900559430547406501
+    second: Accessory_06_Policeman_Hat_32x32_01_117
+  - first:
+      213: 4013808507191282901
+    second: Accessory_06_Policeman_Hat_32x32_01_118
+  - first:
+      213: -8189987841655929083
+    second: Accessory_06_Policeman_Hat_32x32_01_119
+  - first:
+      213: 5991776011898353054
+    second: Accessory_06_Policeman_Hat_32x32_01_120
+  - first:
+      213: -3308141632361447691
+    second: Accessory_06_Policeman_Hat_32x32_01_121
+  - first:
+      213: -4961827104659334252
+    second: Accessory_06_Policeman_Hat_32x32_01_122
+  - first:
+      213: 4466908461686677229
+    second: Accessory_06_Policeman_Hat_32x32_01_123
+  - first:
+      213: 6133773316755268365
+    second: Accessory_06_Policeman_Hat_32x32_01_124
+  - first:
+      213: -8744798376137413983
+    second: Accessory_06_Policeman_Hat_32x32_01_125
+  - first:
+      213: 3205319212469682500
+    second: Accessory_06_Policeman_Hat_32x32_01_126
+  - first:
+      213: -1446507467215097747
+    second: Accessory_06_Policeman_Hat_32x32_01_127
+  - first:
+      213: -5066779937131116614
+    second: Accessory_06_Policeman_Hat_32x32_01_128
+  - first:
+      213: -3581731190327124067
+    second: Accessory_06_Policeman_Hat_32x32_01_129
+  - first:
+      213: -5414527759537776229
+    second: Accessory_06_Policeman_Hat_32x32_01_130
+  - first:
+      213: 4855220614843461052
+    second: Accessory_06_Policeman_Hat_32x32_01_131
+  - first:
+      213: 1030512341054518040
+    second: Accessory_06_Policeman_Hat_32x32_01_132
+  - first:
+      213: 6967624530827058656
+    second: Accessory_06_Policeman_Hat_32x32_01_133
+  - first:
+      213: -5340781200759063275
+    second: Accessory_06_Policeman_Hat_32x32_01_134
+  - first:
+      213: 925929137397638318
+    second: Accessory_06_Policeman_Hat_32x32_01_135
+  - first:
+      213: 4640807274871183774
+    second: Accessory_06_Policeman_Hat_32x32_01_136
+  - first:
+      213: 261818424566951640
+    second: Accessory_06_Policeman_Hat_32x32_01_137
+  - first:
+      213: 8403432829809835085
+    second: Accessory_06_Policeman_Hat_32x32_01_138
+  - first:
+      213: 2247520226630721455
+    second: Accessory_06_Policeman_Hat_32x32_01_139
+  - first:
+      213: 5046498037503542443
+    second: Accessory_06_Policeman_Hat_32x32_01_140
+  - first:
+      213: -6418742636159568991
+    second: Accessory_06_Policeman_Hat_32x32_01_141
+  - first:
+      213: -4671869408765042741
+    second: Accessory_06_Policeman_Hat_32x32_01_142
+  - first:
+      213: 8753325428718724508
+    second: Accessory_06_Policeman_Hat_32x32_01_143
+  - first:
+      213: -654619082790993111
+    second: Accessory_06_Policeman_Hat_32x32_01_144
+  - first:
+      213: -7079830882367413393
+    second: Accessory_06_Policeman_Hat_32x32_01_145
+  - first:
+      213: 2930600882173130073
+    second: Accessory_06_Policeman_Hat_32x32_01_146
+  - first:
+      213: -6594173255820705223
+    second: Accessory_06_Policeman_Hat_32x32_01_147
+  - first:
+      213: -1147244289828135235
+    second: Accessory_06_Policeman_Hat_32x32_01_148
+  - first:
+      213: 2963413207141503888
+    second: Accessory_06_Policeman_Hat_32x32_01_149
+  - first:
+      213: -8046485163706590039
+    second: Accessory_06_Policeman_Hat_32x32_01_150
+  - first:
+      213: -2259795883744665707
+    second: Accessory_06_Policeman_Hat_32x32_01_151
+  - first:
+      213: -1575489437479319099
+    second: Accessory_06_Policeman_Hat_32x32_01_152
+  - first:
+      213: -7666007252418664588
+    second: Accessory_06_Policeman_Hat_32x32_01_153
+  - first:
+      213: -5802807007402864676
+    second: Accessory_06_Policeman_Hat_32x32_01_154
+  - first:
+      213: -7072305689703429588
+    second: Accessory_06_Policeman_Hat_32x32_01_155
+  - first:
+      213: 5037095285583195836
+    second: Accessory_06_Policeman_Hat_32x32_01_156
+  - first:
+      213: -3430662583810802011
+    second: Accessory_06_Policeman_Hat_32x32_01_157
+  - first:
+      213: 5526446858362748832
+    second: Accessory_06_Policeman_Hat_32x32_01_158
+  - first:
+      213: -5330087499832384088
+    second: Accessory_06_Policeman_Hat_32x32_01_159
+  - first:
+      213: 1558070634786066184
+    second: Accessory_06_Policeman_Hat_32x32_01_160
+  - first:
+      213: -1948697777400808489
+    second: Accessory_06_Policeman_Hat_32x32_01_161
+  - first:
+      213: -4344565088774912827
+    second: Accessory_06_Policeman_Hat_32x32_01_162
+  - first:
+      213: 1721029217225982527
+    second: Accessory_06_Policeman_Hat_32x32_01_163
+  - first:
+      213: -6496643452506322519
+    second: Accessory_06_Policeman_Hat_32x32_01_164
+  - first:
+      213: -2912221713666250116
+    second: Accessory_06_Policeman_Hat_32x32_01_165
+  - first:
+      213: 4093307461416464445
+    second: Accessory_06_Policeman_Hat_32x32_01_166
+  - first:
+      213: 6044209493173236458
+    second: Accessory_06_Policeman_Hat_32x32_01_167
+  - first:
+      213: -8243790588743600328
+    second: Accessory_06_Policeman_Hat_32x32_01_168
+  - first:
+      213: -4111213435188460988
+    second: Accessory_06_Policeman_Hat_32x32_01_169
+  - first:
+      213: 7716917033246389013
+    second: Accessory_06_Policeman_Hat_32x32_01_170
+  - first:
+      213: -2016466921677565107
+    second: Accessory_06_Policeman_Hat_32x32_01_171
+  - first:
+      213: -3232087619160557842
+    second: Accessory_06_Policeman_Hat_32x32_01_172
+  - first:
+      213: 1682143572484295842
+    second: Accessory_06_Policeman_Hat_32x32_01_173
+  - first:
+      213: 469329522135288519
+    second: Accessory_06_Policeman_Hat_32x32_01_174
+  - first:
+      213: -2948408864962284141
+    second: Accessory_06_Policeman_Hat_32x32_01_175
+  - first:
+      213: -3214851770685416240
+    second: Accessory_06_Policeman_Hat_32x32_01_176
+  - first:
+      213: -7254300216350258767
+    second: Accessory_06_Policeman_Hat_32x32_01_177
+  - first:
+      213: 1963084716232822488
+    second: Accessory_06_Policeman_Hat_32x32_01_178
+  - first:
+      213: 4848034702099346762
+    second: Accessory_06_Policeman_Hat_32x32_01_179
+  - first:
+      213: 7680772673827370395
+    second: Accessory_06_Policeman_Hat_32x32_01_180
+  - first:
+      213: -4866677944126196810
+    second: Accessory_06_Policeman_Hat_32x32_01_181
+  - first:
+      213: -1037674248979471780
+    second: Accessory_06_Policeman_Hat_32x32_01_182
+  - first:
+      213: -7700762085822235915
+    second: Accessory_06_Policeman_Hat_32x32_01_183
+  - first:
+      213: -6602001816046818637
+    second: Accessory_06_Policeman_Hat_32x32_01_184
+  - first:
+      213: -1529428393471450334
+    second: Accessory_06_Policeman_Hat_32x32_01_185
+  - first:
+      213: 2474254325744116382
+    second: Accessory_06_Policeman_Hat_32x32_01_186
+  - first:
+      213: 5969683320031263539
+    second: Accessory_06_Policeman_Hat_32x32_01_187
+  - first:
+      213: 2890847897490066742
+    second: Accessory_06_Policeman_Hat_32x32_01_188
+  - first:
+      213: 5684763985747854936
+    second: Accessory_06_Policeman_Hat_32x32_01_189
+  - first:
+      213: -2392436709392743643
+    second: Accessory_06_Policeman_Hat_32x32_01_190
+  - first:
+      213: -3764146455934492353
+    second: Accessory_06_Policeman_Hat_32x32_01_191
+  - first:
+      213: 1866837517127105119
+    second: Accessory_06_Policeman_Hat_32x32_01_192
+  - first:
+      213: -3639029205380832835
+    second: Accessory_06_Policeman_Hat_32x32_01_193
+  - first:
+      213: 8467885777812075240
+    second: Accessory_06_Policeman_Hat_32x32_01_194
+  - first:
+      213: 22558180090194668
+    second: Accessory_06_Policeman_Hat_32x32_01_195
+  - first:
+      213: 5960734963132644198
+    second: Accessory_06_Policeman_Hat_32x32_01_196
+  - first:
+      213: -3918312810082476089
+    second: Accessory_06_Policeman_Hat_32x32_01_197
+  - first:
+      213: -8890208267644150006
+    second: Accessory_06_Policeman_Hat_32x32_01_198
+  - first:
+      213: 5943636400536112623
+    second: Accessory_06_Policeman_Hat_32x32_01_199
+  - first:
+      213: 2121822745242424415
+    second: Accessory_06_Policeman_Hat_32x32_01_200
+  - first:
+      213: 3033185685761701212
+    second: Accessory_06_Policeman_Hat_32x32_01_201
+  - first:
+      213: -6052237898029892746
+    second: Accessory_06_Policeman_Hat_32x32_01_202
+  - first:
+      213: 8022265643001642899
+    second: Accessory_06_Policeman_Hat_32x32_01_203
+  - first:
+      213: 7282879038595918924
+    second: Accessory_06_Policeman_Hat_32x32_01_204
+  - first:
+      213: -4937436502449612224
+    second: Accessory_06_Policeman_Hat_32x32_01_205
+  - first:
+      213: 8701031338123402846
+    second: Accessory_06_Policeman_Hat_32x32_01_206
+  - first:
+      213: -2734305093782373156
+    second: Accessory_06_Policeman_Hat_32x32_01_207
+  - first:
+      213: -1319592932612405553
+    second: Accessory_06_Policeman_Hat_32x32_01_208
+  - first:
+      213: -4453955866758446548
+    second: Accessory_06_Policeman_Hat_32x32_01_209
+  - first:
+      213: -2284490120268680033
+    second: Accessory_06_Policeman_Hat_32x32_01_210
+  - first:
+      213: 9060619550691193765
+    second: Accessory_06_Policeman_Hat_32x32_01_211
+  - first:
+      213: 8101457407156798626
+    second: Accessory_06_Policeman_Hat_32x32_01_212
+  - first:
+      213: -2217943256521384725
+    second: Accessory_06_Policeman_Hat_32x32_01_213
+  - first:
+      213: -6678075376687969813
+    second: Accessory_06_Policeman_Hat_32x32_01_214
+  - first:
+      213: 3589620705754017348
+    second: Accessory_06_Policeman_Hat_32x32_01_215
+  - first:
+      213: 4907288002828120073
+    second: Accessory_06_Policeman_Hat_32x32_01_216
+  - first:
+      213: 4220884590113236870
+    second: Accessory_06_Policeman_Hat_32x32_01_217
+  - first:
+      213: -3555198257878968145
+    second: Accessory_06_Policeman_Hat_32x32_01_218
+  - first:
+      213: -7462259357100872539
+    second: Accessory_06_Policeman_Hat_32x32_01_219
+  - first:
+      213: -1973850247068748049
+    second: Accessory_06_Policeman_Hat_32x32_01_220
+  - first:
+      213: -5084571749075088710
+    second: Accessory_06_Policeman_Hat_32x32_01_221
+  - first:
+      213: -397084249924784544
+    second: Accessory_06_Policeman_Hat_32x32_01_222
+  - first:
+      213: 6776390811099933541
+    second: Accessory_06_Policeman_Hat_32x32_01_223
+  - first:
+      213: -6354735924559161810
+    second: Accessory_06_Policeman_Hat_32x32_01_224
+  - first:
+      213: -8114022501636493084
+    second: Accessory_06_Policeman_Hat_32x32_01_225
+  - first:
+      213: -5169517436046528930
+    second: Accessory_06_Policeman_Hat_32x32_01_226
+  - first:
+      213: -8168454074372405878
+    second: Accessory_06_Policeman_Hat_32x32_01_227
+  - first:
+      213: -2935287631222790233
+    second: Accessory_06_Policeman_Hat_32x32_01_228
+  - first:
+      213: 8468028040103820393
+    second: Accessory_06_Policeman_Hat_32x32_01_229
+  - first:
+      213: 7831506016105769977
+    second: Accessory_06_Policeman_Hat_32x32_01_230
+  - first:
+      213: 2270952931163239757
+    second: Accessory_06_Policeman_Hat_32x32_01_231
+  - first:
+      213: 7516858697480772748
+    second: Accessory_06_Policeman_Hat_32x32_01_232
+  - first:
+      213: 5293921105669095153
+    second: Accessory_06_Policeman_Hat_32x32_01_233
+  - first:
+      213: 6209499968086106716
+    second: Accessory_06_Policeman_Hat_32x32_01_234
+  - first:
+      213: 8810068520733222171
+    second: Accessory_06_Policeman_Hat_32x32_01_235
+  - first:
+      213: -1103713058818290503
+    second: Accessory_06_Policeman_Hat_32x32_01_236
+  - first:
+      213: 2512591451040165096
+    second: Accessory_06_Policeman_Hat_32x32_01_237
+  - first:
+      213: 8614011192541407052
+    second: Accessory_06_Policeman_Hat_32x32_01_238
+  - first:
+      213: -862242220331993396
+    second: Accessory_06_Policeman_Hat_32x32_01_239
+  - first:
+      213: -2593307284535014086
+    second: Accessory_06_Policeman_Hat_32x32_01_240
+  - first:
+      213: -4627717669604106118
+    second: Accessory_06_Policeman_Hat_32x32_01_241
+  - first:
+      213: -8515156490709419822
+    second: Accessory_06_Policeman_Hat_32x32_01_242
+  - first:
+      213: -64647372694318066
+    second: Accessory_06_Policeman_Hat_32x32_01_243
+  - first:
+      213: 2920193356673511096
+    second: Accessory_06_Policeman_Hat_32x32_01_244
+  - first:
+      213: 1320422702558038782
+    second: Accessory_06_Policeman_Hat_32x32_01_245
+  - first:
+      213: 6764874038063750111
+    second: Accessory_06_Policeman_Hat_32x32_01_246
+  - first:
+      213: 347225248703025635
+    second: Accessory_06_Policeman_Hat_32x32_01_247
+  - first:
+      213: -9011236474542568993
+    second: Accessory_06_Policeman_Hat_32x32_01_248
+  - first:
+      213: -6631510724316039607
+    second: Accessory_06_Policeman_Hat_32x32_01_249
+  - first:
+      213: 3363547366255117104
+    second: Accessory_06_Policeman_Hat_32x32_01_250
+  - first:
+      213: -6708102208667981391
+    second: Accessory_06_Policeman_Hat_32x32_01_251
+  - first:
+      213: -3770311708609024135
+    second: Accessory_06_Policeman_Hat_32x32_01_252
+  - first:
+      213: -4910643323039702688
+    second: Accessory_06_Policeman_Hat_32x32_01_253
+  - first:
+      213: 2174165612562828590
+    second: Accessory_06_Policeman_Hat_32x32_01_254
+  - first:
+      213: -2767498177615080621
+    second: Accessory_06_Policeman_Hat_32x32_01_255
+  - first:
+      213: -4631366368352778500
+    second: Accessory_06_Policeman_Hat_32x32_01_256
+  - first:
+      213: 6513505129017507410
+    second: Accessory_06_Policeman_Hat_32x32_01_257
+  - first:
+      213: 7820118722841624359
+    second: Accessory_06_Policeman_Hat_32x32_01_258
+  - first:
+      213: 6647784423688414381
+    second: Accessory_06_Policeman_Hat_32x32_01_259
+  - first:
+      213: -54680603897612122
+    second: Accessory_06_Policeman_Hat_32x32_01_260
+  - first:
+      213: 650184913750680849
+    second: Accessory_06_Policeman_Hat_32x32_01_261
+  - first:
+      213: 4346624260303671364
+    second: Accessory_06_Policeman_Hat_32x32_01_262
+  - first:
+      213: -5941976633590589884
+    second: Accessory_06_Policeman_Hat_32x32_01_263
+  - first:
+      213: -3160977704124073628
+    second: Accessory_06_Policeman_Hat_32x32_01_264
+  - first:
+      213: -2571345159991452840
+    second: Accessory_06_Policeman_Hat_32x32_01_265
+  - first:
+      213: 6723198632266705098
+    second: Accessory_06_Policeman_Hat_32x32_01_266
+  - first:
+      213: 8116841220477897068
+    second: Accessory_06_Policeman_Hat_32x32_01_267
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1273
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70629e2be2ac36910800000000000000
+      internalID: 1829528175561483783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1275
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be6bd8690ed32a60800000000000000
+      internalID: 7648200724200517298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1273
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210e6bec31f7e4ad0800000000000000
+      internalID: -2716093802208632814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1271
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e42fc8a686a0d70800000000000000
+      internalID: 9010128811348610698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1209
+        width: 193
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00367a5d04aeaa390800000000000000
+      internalID: -7806169439910010112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1211
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee58ffa0a9fd40650800000000000000
+      internalID: 6198324839871120878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_6
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1211
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1663b03510a371e90800000000000000
+      internalID: -7055106513889970591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1213
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31acbd3cd395261d0800000000000000
+      internalID: -3359024250251130349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_8
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1213
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36738471d1f6a8650800000000000000
+      internalID: 6235918804783216483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_9
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1211
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11cf682d053d3540800000000000000
+      internalID: 4989202292825637150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_10
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1211
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7292952c555534b40800000000000000
+      internalID: 5423272203105413415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_11
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1209
+        width: 194
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdba17a5f628a3eb0800000000000000
+      internalID: -4739332243083645988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_12
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1207
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36005178f5aab11d0800000000000000
+      internalID: -3378919768146509725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_13
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1207
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b27f2af20dab510800000000000000
+      internalID: 1565792723480816422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_14
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1209
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c465170d4706470800000000000000
+      internalID: 8385830944767364173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_15
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1209
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c216275b5434f4e0800000000000000
+      internalID: -1948875171835800895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_16
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1207
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24607346e4164a4e0800000000000000
+      internalID: -1971343747564763582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_17
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1207
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac41790b534c74b40800000000000000
+      internalID: 5424520011066053834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1145
+        width: 193
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff226c22ef7a17d0800000000000000
+      internalID: -2946902396776599559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_19
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1147
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b4f29efb5fee020800000000000000
+      internalID: 2373104258270579562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_20
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1149
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f2ca32a698a6ff0800000000000000
+      internalID: -42070157548572815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_21
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1147
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1fedd0bf92eb470800000000000000
+      internalID: 8412207312220910023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_22
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1147
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6cdcdc162c08190800000000000000
+      internalID: -7962150415870605583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_23
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1149
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692c25c706d34c730800000000000000
+      internalID: 4018404252133278358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_24
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1147
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ebd567965083cc0800000000000000
+      internalID: -3731226340760895906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_25
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1145
+        width: 194
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e327bb253f53d3470800000000000000
+      internalID: 8375910201160331838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_26
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1145
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e634f0948cddbb30800000000000000
+      internalID: 4304839280761779940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_27
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1143
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0168f2c94b8c8800800000000000000
+      internalID: 616020397962846478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_28
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1145
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4b1f295c9aa8390800000000000000
+      internalID: -7815247537309109082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_29
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1145
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf64c4447179f37e0800000000000000
+      internalID: -1783540801229535492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_30
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1143
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7478765be7c0daa10800000000000000
+      internalID: 1922206354305943367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_31
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1145
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352bc26c7beecce10800000000000000
+      internalID: 2219411189458055763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1089
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09345ccfbef2f7f0800000000000000
+      internalID: -580121302257092340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1089
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495ec8a44ea0ab400800000000000000
+      internalID: 340596697439462804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1091
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fe944dceacb5b10800000000000000
+      internalID: 1971392380427431743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_35
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1091
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d95893595d9b10f0800000000000000
+      internalID: -1145148673255515687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_36
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1089
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad74cafb0d1f58ac0800000000000000
+      internalID: -3853408027274360870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1089
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0707ad999a38a6750800000000000000
+      internalID: 6298991793285001328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1017
+        width: 385
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286661e2dc1bd4ca0800000000000000
+      internalID: -6030968831179594110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 953
+        width: 385
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a931c12406f83e0800000000000000
+      internalID: -2049313468375131637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 887
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6533d9618d85cb50800000000000000
+      internalID: 6612847214829188462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_41
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 887
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb693016639bb69b0800000000000000
+      internalID: -5085767710977845572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_42
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 887
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6a06a05aa26bbf0800000000000000
+      internalID: -309012636096223539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_43
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 887
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac199ee0523acde0800000000000000
+      internalID: -1312181018243294044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_44
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 887
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed47684c5e435930800000000000000
+      internalID: 4130731441487564259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_45
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 889
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54d3b6be1d1eada0800000000000000
+      internalID: -5931771641448901538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_46
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 889
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590660ad06d71c960800000000000000
+      internalID: 7620509899415773333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_47
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 887
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408ed7579ff127a80800000000000000
+      internalID: -8470672792851978236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_48
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 887
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef91c2e3f2c461ea0800000000000000
+      internalID: -5902446495832204802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_49
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 887
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4365be03a628f1c00800000000000000
+      internalID: 873560245332039220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_50
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 887
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50aeac83fbdffb730800000000000000
+      internalID: 4017208390371174917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_51
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 887
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1287feb9f9bfdc0800000000000000
+      internalID: -3604111584693575215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 823
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c034e3386591e870800000000000000
+      internalID: 8710407429090980033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_53
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 823
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1123961b06fd3f60800000000000000
+      internalID: 8015833439273165086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_54
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 825
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bd0592fee6c3f10800000000000000
+      internalID: 2250795887247809387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_55
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 825
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59da710fa7e271b90800000000000000
+      internalID: -7271291967817405035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_56
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 823
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55029c175cd767880800000000000000
+      internalID: -8613558950328459179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_57
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 823
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cacd28925d76200800000000000000
+      internalID: 173341484942929009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_58
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 823
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9dfc3b0cb382540800000000000000
+      internalID: 4983298686521956778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_59
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 823
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7ae79dee6953820800000000000000
+      internalID: 2897387887878121441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_60
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 823
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de3d2cee76e00b30800000000000000
+      internalID: 4251651481040404185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_61
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 825
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcd17636bd309830800000000000000
+      internalID: 4075825515577072857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_62
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 825
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d19e9d8ca51ebb50800000000000000
+      internalID: 6610745133881004499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_63
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 823
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c91aa51cc10312f0800000000000000
+      internalID: -1003456315925063224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 761
+        width: 193
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d3e6e0f8615ac80800000000000000
+      internalID: -8312212733564142309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_65
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 763
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccbf9be424b3dd10800000000000000
+      internalID: 2149259517850795204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_66
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 765
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35bc96e869346580800000000000000
+      internalID: -8834873446285658819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_67
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 763
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547243ade47cc8150800000000000000
+      internalID: 5876290755293882181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_68
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 763
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7879528c8100c4720800000000000000
+      internalID: 2831638372146321287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_69
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 765
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7575d575ab311700800000000000000
+      internalID: 509253814702142847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_70
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 763
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e417116787f1bacc0800000000000000
+      internalID: -3698828066717339314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_71
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 761
+        width: 194
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1a47417aaf593b0800000000000000
+      internalID: -5506219373880892946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_72
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 761
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e57058ef8f9f2970800000000000000
+      internalID: 8732373642921407969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_73
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 759
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f2520a37fa55d10800000000000000
+      internalID: 2113788511263207194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_74
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 761
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf02ca00ba9f7b520800000000000000
+      internalID: 2717915412987388155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_75
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 761
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16153f9454073350800000000000000
+      internalID: 5996266190361925149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_76
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 759
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93188ba309bd3fd70800000000000000
+      internalID: 9075839086588625209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_77
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 761
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3d0cacdfe77dac0800000000000000
+      internalID: -3830453329561857075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 693
+        width: 385
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ee49fa780aa1720800000000000000
+      internalID: 2817741021500468863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_79
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 697
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94ec8e947bce0bb0800000000000000
+      internalID: -4967809637206399843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_80
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 697
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecac88eacab54cb0800000000000000
+      internalID: -4880289240538370836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_81
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 695
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09a04166910477e0800000000000000
+      internalID: -1768787008261412598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_82
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 693
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132bdb337a441e110800000000000000
+      internalID: 1288386453322969649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_83
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 693
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7dd458e54af5870800000000000000
+      internalID: 8673832133209216939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_84
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 695
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb29bd822b0f86cf0800000000000000
+      internalID: -258692330593480005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_85
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 697
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b3228f4f92ba910800000000000000
+      internalID: 1849618204077472627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_86
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 697
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19da097af8d80020800000000000000
+      internalID: 2308333379311556894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_87
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 697
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04519bb054178410800000000000000
+      internalID: 1479173339591300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_88
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 697
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ba2c0c1ed70b0b0800000000000000
+      internalID: -5714929518578062540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_89
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 699
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744aa7b2d1f4d4150800000000000000
+      internalID: 5858425676980986951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_90
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 699
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d827682b198f0e2a0800000000000000
+      internalID: -6710090140132937075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_91
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 693
+        width: 386
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f44b8ab5e2d2920800000000000000
+      internalID: 2967078700714315580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_92
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 693
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ca5ed10a7c09830800000000000000
+      internalID: 4075977153280584806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_93
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 693
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6984d3357ecdb7720800000000000000
+      internalID: 2845110475706681494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_94
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 691
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8993054f1c308a50800000000000000
+      internalID: 6521278365431994763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_95
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 689
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3c3f9f8f0448610800000000000000
+      internalID: 1622493203849790392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_96
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 689
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2280f98f49576fb0800000000000000
+      internalID: -4654653491712589267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_97
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 691
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d0df659c88a73f0800000000000000
+      internalID: -902258377005134572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_98
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 693
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db89b40bac028b70800000000000000
+      internalID: 8899689742295731157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_99
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 693
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea3bd435d6c6af60800000000000000
+      internalID: 8045336403361086189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_100
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 693
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8513f080fbd9d70800000000000000
+      internalID: 9051600867420100857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_101
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 693
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57ae54364a5b68a0800000000000000
+      internalID: -6310851195256789156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_102
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 695
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d02701788b132690800000000000000
+      internalID: -7628223071009693483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_103
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 695
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4260f36241796860800000000000000
+      internalID: 7523669182457602636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 633
+        width: 321
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe63686ec0d53270800000000000000
+      internalID: 8229713479022636788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_105
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 635
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa32e55120575460800000000000000
+      internalID: 7230335830871653039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_106
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 635
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fb3fdc760f9a430800000000000000
+      internalID: 3794828489663954790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_107
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 635
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf862066a74a13500800000000000000
+      internalID: 374261089652861180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_108
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 635
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914cbc6b30fd975e0800000000000000
+      internalID: -1911251359797361639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_109
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 635
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e829c885b9defa540800000000000000
+      internalID: 5021493361002713742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_110
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 635
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d960cf3d7f4b1e700800000000000000
+      internalID: 567934004531824285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_111
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 635
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a88fef0ce7d2d60800000000000000
+      internalID: 7867083491462646358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_112
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 635
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd360e77d7228e780800000000000000
+      internalID: -8653628761714957345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_113
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 635
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213c1ad37e6d083b0800000000000000
+      internalID: -5512169655241686254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_114
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 635
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ed9fc333cccf070800000000000000
+      internalID: 8141606746817420895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_115
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 633
+        width: 322
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbde6ea0910a51a00800000000000000
+      internalID: 726662944307735995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_116
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 631
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795a5801538817ad0800000000000000
+      internalID: -2706232139581119081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_117
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 631
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aefb448bb4206a10800000000000000
+      internalID: 1900559430547406501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_118
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 631
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcc39b3299e3b730800000000000000
+      internalID: 4013808507191282901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_119
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 631
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507845f4371575e80800000000000000
+      internalID: -8189987841655929083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_120
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 631
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9578ea7980172350800000000000000
+      internalID: 5991776011898353054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_121
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 631
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe3a6076be1712d0800000000000000
+      internalID: -3308141632361447691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_122
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 631
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b10e5898c042bb0800000000000000
+      internalID: -4961827104659334252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_123
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 631
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee55074495adfd30800000000000000
+      internalID: 4466908461686677229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_124
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 631
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03a7fd555a8f1550800000000000000
+      internalID: 6133773316755268365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_125
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 631
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aaaae5753c34a680800000000000000
+      internalID: -8744798376137413983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 567
+        width: 449
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4418dfa57d49b7c20800000000000000
+      internalID: 3205319212469682500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_127
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 571
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60b1bb5f19fcebe0800000000000000
+      internalID: -1446507467215097747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_128
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 569
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7493cfd7e2fa9b0800000000000000
+      internalID: -5066779937131116614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_129
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 569
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f5d9f85722b4ec0800000000000000
+      internalID: -3581731190327124067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_130
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 567
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99524aa0bbbbd4b0800000000000000
+      internalID: -5414527759537776229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_131
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 569
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbde5e5dc65316340800000000000000
+      internalID: 4855220614843461052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_132
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 569
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813f539a38d1d4e00800000000000000
+      internalID: 1030512341054518040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_133
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 569
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed9e304899f1b060800000000000000
+      internalID: 6967624530827058656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_134
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 569
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dfba96bcbb1e5b0800000000000000
+      internalID: -5340781200759063275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_135
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 569
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea425c905af89dc00800000000000000
+      internalID: 925929137397638318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_136
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 569
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99deb1e0a5776040800000000000000
+      internalID: 4640807274871183774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_137
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 569
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de27ff487a22a300800000000000000
+      internalID: 261818424566951640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_138
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 567
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cbbaaa2adfe9470800000000000000
+      internalID: 8403432829809835085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_139
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 569
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf54ddfcbbc03f10800000000000000
+      internalID: 2247520226630721455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_140
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 571
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4ca154a33c80640800000000000000
+      internalID: 5046498037503542443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_141
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 567
+        width: 450
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3fd03949b0ce6a0800000000000000
+      internalID: -6418742636159568991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_142
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 567
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf9b8d768f2a2fb0800000000000000
+      internalID: -4671869408765042741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_143
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 565
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c956c2ea91f0a7970800000000000000
+      internalID: 8753325428718724508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_144
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 565
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9230d0b99635ae6f0800000000000000
+      internalID: -654619082790993111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_145
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 563
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6366a2b2536fbd90800000000000000
+      internalID: -7079830882367413393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_146
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 565
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9553060b9f59ba820800000000000000
+      internalID: 2930600882173130073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_147
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 565
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9320d6b7c5acc74a0800000000000000
+      internalID: -6594173255820705223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_148
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 565
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbed232956b2410f0800000000000000
+      internalID: -1147244289828135235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_149
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 567
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093de5e6c98202920800000000000000
+      internalID: 2963413207141503888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_150
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 565
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac51de2064255090800000000000000
+      internalID: -8046485163706590039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_151
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 565
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f528cdd9793a0e0800000000000000
+      internalID: -2259795883744665707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_152
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 565
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c94aa334bcb22ae0800000000000000
+      internalID: -1575489437479319099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_153
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 563
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477640a250fdc9590800000000000000
+      internalID: -7666007252418664588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_154
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 565
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfca9775c9487fa0800000000000000
+      internalID: -5802807007402864676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_155
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 565
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ac046227f1add90800000000000000
+      internalID: -7072305689703429588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 501
+        width: 449
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe2bfc797b57e540800000000000000
+      internalID: 5037095285583195836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_157
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 507
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aebbb37e86d360d0800000000000000
+      internalID: -3430662583810802011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_158
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 505
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aff8c62322e1bc40800000000000000
+      internalID: 5526446858362748832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_159
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 505
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5adbea8a9b706b0800000000000000
+      internalID: -5330087499832384088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_160
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 503
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f0461ccf06f9510800000000000000
+      internalID: 1558070634786066184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_161
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 505
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db7e6332b5d4f4e0800000000000000
+      internalID: -1948697777400808489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_162
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 505
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4020cf11105b3c0800000000000000
+      internalID: -4344565088774912827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_163
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 505
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32c2d464f252e710800000000000000
+      internalID: 1721029217225982527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_164
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 505
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a94efc533947d5a0800000000000000
+      internalID: -6496643452506322519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_165
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 505
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a6eb1f7c5b597d0800000000000000
+      internalID: -2912221713666250116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_166
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 501
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d303f2ae2795ec830800000000000000
+      internalID: 4093307461416464445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_167
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 503
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae272aca28851e350800000000000000
+      internalID: 6044209493173236458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_168
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 505
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837ba33132c289d80800000000000000
+      internalID: -8243790588743600328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_169
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 507
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44247cfa92902f6c0800000000000000
+      internalID: -4111213435188460988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_170
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 507
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513ffcfd72ff71b60800000000000000
+      internalID: 7716917033246389013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_171
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 501
+        width: 450
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d435518b4021404e0800000000000000
+      internalID: -2016466921677565107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_172
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 503
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee63ff84f615523d0800000000000000
+      internalID: -3232087619160557842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_173
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 501
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac0223baac285710800000000000000
+      internalID: 1682143572484295842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_174
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 501
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca4a79b6b4638600800000000000000
+      internalID: 469329522135288519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_175
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 499
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3957f4732c52517d0800000000000000
+      internalID: -2948408864962284141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_176
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 501
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc92caf85d8263d0800000000000000
+      internalID: -3214851770685416240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_177
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 501
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9476e536c835b90800000000000000
+      internalID: -7254300216350258767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_178
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 501
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de4e0706274e3b10800000000000000
+      internalID: 1963084716232822488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_179
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 503
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45f56520eda74340800000000000000
+      internalID: 4848034702099346762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_180
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 503
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95f1086d06979a60800000000000000
+      internalID: 7680772673827370395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_181
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 499
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b33120d136167cb0800000000000000
+      internalID: -4866677944126196810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_182
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 499
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c522205b4c07991f0800000000000000
+      internalID: -1037674248979471780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_183
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 501
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5faf4ceeea5612590800000000000000
+      internalID: -7700762085822235915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_184
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 501
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3baab04c35af064a0800000000000000
+      internalID: -6602001816046818637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_185
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 503
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223ecb9baf066cae0800000000000000
+      internalID: -1529428393471450334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_186
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 193
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92a3f93331565220800000000000000
+      internalID: 2474254325744116382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_187
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 443
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bb900d95398d250800000000000000
+      internalID: 5969683320031263539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_188
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 443
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d849da8da5e1820800000000000000
+      internalID: 2890847897490066742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_189
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 441
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8564f62d9b654ee40800000000000000
+      internalID: 5684763985747854936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_190
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 441
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5238a0d0d7b5cced0800000000000000
+      internalID: -2392436709392743643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_191
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 443
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31aa7bddb013cbc0800000000000000
+      internalID: -3764146455934492353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_192
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 443
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5abbb5b4d658e910800000000000000
+      internalID: 1866837517127105119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_193
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 439
+        width: 194
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1e006d7329f7dc0800000000000000
+      internalID: -3639029205380832835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_194
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 439
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e232190049f38570800000000000000
+      internalID: 8467885777812075240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_195
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 439
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea2e079b84205000800000000000000
+      internalID: 22558180090194668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_196
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 437
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bb5cd1ed8c8b250800000000000000
+      internalID: 5960734963132644198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_197
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 439
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfdb24624b5f99c0800000000000000
+      internalID: -3918312810082476089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_198
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 439
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f54d3dea2af9480800000000000000
+      internalID: -8890208267644150006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_199
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 439
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed4908c0d90c7250800000000000000
+      internalID: 5943636400536112623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 193
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54d48e7b8a327d10800000000000000
+      internalID: 2121822745242424415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_201
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 379
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5530a98f4a081a20800000000000000
+      internalID: 3033185685761701212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_202
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 379
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b75c7a2b1220ca0800000000000000
+      internalID: -6052237898029892746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_203
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 377
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ffee83910d45f60800000000000000
+      internalID: 8022265643001642899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_204
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 377
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ce5a536ebf11560800000000000000
+      internalID: 7282879038595918924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_205
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 379
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a917229a3ba7bb0800000000000000
+      internalID: -4937436502449612224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_206
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 379
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e1368e6e540c870800000000000000
+      internalID: 8701031338123402846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_207
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 373
+        width: 194
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc7f81110ccd0ad0800000000000000
+      internalID: -2734305093782373156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_208
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 375
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc68583283ddfade0800000000000000
+      internalID: -1319592932612405553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_209
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 375
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22889cbcbe5032c0800000000000000
+      internalID: -4453955866758446548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_210
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 373
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94fe70e65cdb40e0800000000000000
+      internalID: -2284490120268680033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_211
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 375
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a378e3e979cdbd70800000000000000
+      internalID: 9060619550691193765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_212
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 375
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4c984a6982e6070800000000000000
+      internalID: 8101457407156798626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_213
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 375
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becd11ffb584831e0800000000000000
+      internalID: -2217943256521384725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_214
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 193
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be90b3da3d5b253a0800000000000000
+      internalID: -6678075376687969813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_215
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 315
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44eead46305e0d130800000000000000
+      internalID: 3589620705754017348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_216
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 315
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9003b1b40703a1440800000000000000
+      internalID: 4907288002828120073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_217
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 313
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687ae97eb28939a30800000000000000
+      internalID: 4220884590113236870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_218
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 313
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8590d450669aec0800000000000000
+      internalID: -3555198257878968145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_219
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 315
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acea26c6aab07890800000000000000
+      internalID: -7462259357100872539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_220
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 315
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe676af78a97b94e0800000000000000
+      internalID: -1973850247068748049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_221
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 311
+        width: 194
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba8465fee8ff69b0800000000000000
+      internalID: -5084571749075088710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_222
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 311
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ea4518af54d7af0800000000000000
+      internalID: -397084249924784544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_223
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 311
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b25d23a839a0e50800000000000000
+      internalID: 6776390811099933541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_224
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 309
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26dc3f68517fc7a0800000000000000
+      internalID: -6354735924559161810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_225
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 311
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e03e625683356f80800000000000000
+      internalID: -8114022501636493084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_226
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 311
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e224cf74f2248b0800000000000000
+      internalID: -5169517436046528930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_227
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 311
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85c0f43c42d3ae80800000000000000
+      internalID: -8168454074372405878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_228
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 129
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a72e538373c347d0800000000000000
+      internalID: -2935287631222790233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_229
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 251
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c7f6e03aa748570800000000000000
+      internalID: 8468028040103820393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_230
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 251
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fba1528a391fac60800000000000000
+      internalID: 7831506016105769977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_231
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 251
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45fd9ba8ab048f10800000000000000
+      internalID: 2270952931163239757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_232
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 251
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c952ac82f315860800000000000000
+      internalID: 7516858697480772748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_233
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 249
+        width: 130
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe795c7239c77940800000000000000
+      internalID: 5293921105669095153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_234
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 247
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52629652539c2650800000000000000
+      internalID: 6209499968086106716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_235
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 247
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15a72154a6a34a70800000000000000
+      internalID: 8810068520733222171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_236
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 247
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc0d2b12d2dea0f0800000000000000
+      internalID: -1103713058818290503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_237
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 247
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecaee8cc948ed220800000000000000
+      internalID: 2512591451040165096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_238
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 193
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c476ba66a8d1b8770800000000000000
+      internalID: 8614011192541407052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_239
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 187
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc674cad443b804f0800000000000000
+      internalID: -862242220331993396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_240
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 187
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d8bdfb3c8b20cd0800000000000000
+      internalID: -2593307284535014086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_241
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 189
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70e2765c4b07cfb0800000000000000
+      internalID: -4627717669604106118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_242
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 189
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d83764794614d980800000000000000
+      internalID: -8515156490709419822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_243
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 187
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0494ea9e835a1ff0800000000000000
+      internalID: -64647372694318066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_244
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 187
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8beeaf3d26c968820800000000000000
+      internalID: 2920193356673511096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_245
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 185
+        width: 194
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa455bb375135210800000000000000
+      internalID: 1320422702558038782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_246
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 183
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb5d058819a1ed50800000000000000
+      internalID: 6764874038063750111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_247
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 183
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e19df5268791d400800000000000000
+      internalID: 347225248703025635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_248
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 185
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9c8d38b28a1f280800000000000000
+      internalID: -9011236474542568993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_249
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 185
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946f2f8a12428f3a0800000000000000
+      internalID: -6631510724316039607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_250
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 183
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03346de3288bdae20800000000000000
+      internalID: 3363547366255117104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_251
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 183
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9e45f059808e2a0800000000000000
+      internalID: -6708102208667981391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 97
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fecdb1a792dabc0800000000000000
+      internalID: -3770311708609024135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_253
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 123
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06123975ae3e9dbb0800000000000000
+      internalID: -4910643323039702688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_254
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 123
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d4dabfa103c2e10800000000000000
+      internalID: 2174165612562828590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_255
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 123
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35356bef11fd799d0800000000000000
+      internalID: -2767498177615080621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_256
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 121
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf644a573d41abfb0800000000000000
+      internalID: -4631366368352778500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_257
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 119
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ef5c1a76e946a50800000000000000
+      internalID: 6513505129017507410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_258
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 119
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f3b50bb84a68c60800000000000000
+      internalID: 7820118722841624359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_259
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 119
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4a25d36bca14c50800000000000000
+      internalID: 6647784423688414381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_260
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 97
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8349cc74cbd3ff0800000000000000
+      internalID: -54680603897612122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_261
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 59
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1156d66fbbbe50900800000000000000
+      internalID: 650184913750680849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_262
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 53
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440de7f3cbf425c30800000000000000
+      internalID: 4346624260303671364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_263
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 59
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4465923dbbbd98da0800000000000000
+      internalID: -5941976633590589884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_264
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 55
+        width: 98
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46931c29683f124d0800000000000000
+      internalID: -3160977704124073628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_265
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 55
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b1ac7533fb05cd0800000000000000
+      internalID: -2571345159991452840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_266
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 53
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac826a6f8899d4d50800000000000000
+      internalID: 6723198632266705098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_06_Policeman_Hat_32x32_01_267
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 55
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6945dcc510d4a070800000000000000
+      internalID: 8116841220477897068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

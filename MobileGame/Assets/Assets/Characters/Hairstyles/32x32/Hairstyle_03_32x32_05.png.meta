@@ -1,0 +1,6343 @@
+fileFormatVersion: 2
+guid: 6669b7015d1d0b144928a46c3e94506d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7948538305135454839
+    second: Hairstyle_03_32x32_05_0
+  - first:
+      213: -2043567604288825187
+    second: Hairstyle_03_32x32_05_1
+  - first:
+      213: -4662851810467904781
+    second: Hairstyle_03_32x32_05_2
+  - first:
+      213: -7800105199801541448
+    second: Hairstyle_03_32x32_05_3
+  - first:
+      213: 6729601762065695013
+    second: Hairstyle_03_32x32_05_4
+  - first:
+      213: -5160059629209924891
+    second: Hairstyle_03_32x32_05_5
+  - first:
+      213: -1658421700462514818
+    second: Hairstyle_03_32x32_05_6
+  - first:
+      213: 7837589519855725443
+    second: Hairstyle_03_32x32_05_7
+  - first:
+      213: 5497033828884347989
+    second: Hairstyle_03_32x32_05_8
+  - first:
+      213: -8633108158773334866
+    second: Hairstyle_03_32x32_05_9
+  - first:
+      213: -1707643876970962716
+    second: Hairstyle_03_32x32_05_10
+  - first:
+      213: 2534481111234722929
+    second: Hairstyle_03_32x32_05_11
+  - first:
+      213: 6631987204715366922
+    second: Hairstyle_03_32x32_05_12
+  - first:
+      213: 5104600622830620793
+    second: Hairstyle_03_32x32_05_13
+  - first:
+      213: 6405539158585431907
+    second: Hairstyle_03_32x32_05_14
+  - first:
+      213: 5306854779596095724
+    second: Hairstyle_03_32x32_05_15
+  - first:
+      213: -2747345866167381423
+    second: Hairstyle_03_32x32_05_16
+  - first:
+      213: 9147249874721257988
+    second: Hairstyle_03_32x32_05_17
+  - first:
+      213: 1157484866568562580
+    second: Hairstyle_03_32x32_05_18
+  - first:
+      213: 5014168722468069392
+    second: Hairstyle_03_32x32_05_19
+  - first:
+      213: -4622898766458192138
+    second: Hairstyle_03_32x32_05_20
+  - first:
+      213: 2690462057014804104
+    second: Hairstyle_03_32x32_05_21
+  - first:
+      213: 9055721803498324597
+    second: Hairstyle_03_32x32_05_22
+  - first:
+      213: -4757650198588986489
+    second: Hairstyle_03_32x32_05_23
+  - first:
+      213: 6723491574010183455
+    second: Hairstyle_03_32x32_05_24
+  - first:
+      213: -3199292697817562329
+    second: Hairstyle_03_32x32_05_25
+  - first:
+      213: -8472404577635453158
+    second: Hairstyle_03_32x32_05_26
+  - first:
+      213: 2740001485795349041
+    second: Hairstyle_03_32x32_05_27
+  - first:
+      213: -2757610083980902371
+    second: Hairstyle_03_32x32_05_28
+  - first:
+      213: 2917858527584358918
+    second: Hairstyle_03_32x32_05_29
+  - first:
+      213: 1863651806664576926
+    second: Hairstyle_03_32x32_05_30
+  - first:
+      213: 7887084066560641474
+    second: Hairstyle_03_32x32_05_31
+  - first:
+      213: -166640664640075816
+    second: Hairstyle_03_32x32_05_32
+  - first:
+      213: -5755545857488088483
+    second: Hairstyle_03_32x32_05_33
+  - first:
+      213: 1299055714204104942
+    second: Hairstyle_03_32x32_05_34
+  - first:
+      213: -6217980324988379592
+    second: Hairstyle_03_32x32_05_35
+  - first:
+      213: -8884241064049983805
+    second: Hairstyle_03_32x32_05_36
+  - first:
+      213: -4904727856577043794
+    second: Hairstyle_03_32x32_05_37
+  - first:
+      213: 2210968356295169494
+    second: Hairstyle_03_32x32_05_38
+  - first:
+      213: -4051234429277449180
+    second: Hairstyle_03_32x32_05_39
+  - first:
+      213: -4809311952816245100
+    second: Hairstyle_03_32x32_05_40
+  - first:
+      213: -6647788074207152996
+    second: Hairstyle_03_32x32_05_41
+  - first:
+      213: -2150851543475401260
+    second: Hairstyle_03_32x32_05_42
+  - first:
+      213: -2993793023008451583
+    second: Hairstyle_03_32x32_05_43
+  - first:
+      213: -7803358433726751394
+    second: Hairstyle_03_32x32_05_44
+  - first:
+      213: 2460736562366740938
+    second: Hairstyle_03_32x32_05_45
+  - first:
+      213: 1742116836233472112
+    second: Hairstyle_03_32x32_05_46
+  - first:
+      213: 4211142766587263141
+    second: Hairstyle_03_32x32_05_47
+  - first:
+      213: -5359876938870401116
+    second: Hairstyle_03_32x32_05_48
+  - first:
+      213: -8877526291744929057
+    second: Hairstyle_03_32x32_05_49
+  - first:
+      213: 8982004943520979086
+    second: Hairstyle_03_32x32_05_50
+  - first:
+      213: 2787291872206867646
+    second: Hairstyle_03_32x32_05_51
+  - first:
+      213: 7618996281391480082
+    second: Hairstyle_03_32x32_05_52
+  - first:
+      213: -6599973030620173796
+    second: Hairstyle_03_32x32_05_53
+  - first:
+      213: -2446089424564429670
+    second: Hairstyle_03_32x32_05_54
+  - first:
+      213: -8014034843508042283
+    second: Hairstyle_03_32x32_05_55
+  - first:
+      213: 8208476282526878599
+    second: Hairstyle_03_32x32_05_56
+  - first:
+      213: 3178705593299855667
+    second: Hairstyle_03_32x32_05_57
+  - first:
+      213: 9060435817756195029
+    second: Hairstyle_03_32x32_05_58
+  - first:
+      213: 8816069922557319245
+    second: Hairstyle_03_32x32_05_59
+  - first:
+      213: -5544510836531837718
+    second: Hairstyle_03_32x32_05_60
+  - first:
+      213: 1950207948617866465
+    second: Hairstyle_03_32x32_05_61
+  - first:
+      213: 1191679206422914369
+    second: Hairstyle_03_32x32_05_62
+  - first:
+      213: -3504324025927403570
+    second: Hairstyle_03_32x32_05_63
+  - first:
+      213: 1504734248616454510
+    second: Hairstyle_03_32x32_05_64
+  - first:
+      213: -6730675353338659159
+    second: Hairstyle_03_32x32_05_65
+  - first:
+      213: -2661968176610690433
+    second: Hairstyle_03_32x32_05_66
+  - first:
+      213: -2572750158178508443
+    second: Hairstyle_03_32x32_05_67
+  - first:
+      213: -6574766561512156633
+    second: Hairstyle_03_32x32_05_68
+  - first:
+      213: -8689918819483246712
+    second: Hairstyle_03_32x32_05_69
+  - first:
+      213: -6724399073239879936
+    second: Hairstyle_03_32x32_05_70
+  - first:
+      213: 6073700802227191850
+    second: Hairstyle_03_32x32_05_71
+  - first:
+      213: -5796257738261580084
+    second: Hairstyle_03_32x32_05_72
+  - first:
+      213: 1211198886529434698
+    second: Hairstyle_03_32x32_05_73
+  - first:
+      213: 1777199245386600807
+    second: Hairstyle_03_32x32_05_74
+  - first:
+      213: -2152405920933789778
+    second: Hairstyle_03_32x32_05_75
+  - first:
+      213: -6813985466875246605
+    second: Hairstyle_03_32x32_05_76
+  - first:
+      213: -2138838644134860193
+    second: Hairstyle_03_32x32_05_77
+  - first:
+      213: -4569874137931999612
+    second: Hairstyle_03_32x32_05_78
+  - first:
+      213: 4249628281235922382
+    second: Hairstyle_03_32x32_05_79
+  - first:
+      213: -878463583860303010
+    second: Hairstyle_03_32x32_05_80
+  - first:
+      213: -8037215002524177297
+    second: Hairstyle_03_32x32_05_81
+  - first:
+      213: 5183956155192785262
+    second: Hairstyle_03_32x32_05_82
+  - first:
+      213: -3497685178351056799
+    second: Hairstyle_03_32x32_05_83
+  - first:
+      213: -2469718311397236472
+    second: Hairstyle_03_32x32_05_84
+  - first:
+      213: -1655308940811151584
+    second: Hairstyle_03_32x32_05_85
+  - first:
+      213: -1874961921281874098
+    second: Hairstyle_03_32x32_05_86
+  - first:
+      213: -992502167270552210
+    second: Hairstyle_03_32x32_05_87
+  - first:
+      213: 8901744887097183069
+    second: Hairstyle_03_32x32_05_88
+  - first:
+      213: 7949681934471074793
+    second: Hairstyle_03_32x32_05_89
+  - first:
+      213: -373681390079606058
+    second: Hairstyle_03_32x32_05_90
+  - first:
+      213: -8633509271148623412
+    second: Hairstyle_03_32x32_05_91
+  - first:
+      213: -5369426096269953345
+    second: Hairstyle_03_32x32_05_92
+  - first:
+      213: -1163587829904574779
+    second: Hairstyle_03_32x32_05_93
+  - first:
+      213: -152056299775676471
+    second: Hairstyle_03_32x32_05_94
+  - first:
+      213: 1271190796592331925
+    second: Hairstyle_03_32x32_05_95
+  - first:
+      213: 331062408097194043
+    second: Hairstyle_03_32x32_05_96
+  - first:
+      213: 8657191627671761311
+    second: Hairstyle_03_32x32_05_97
+  - first:
+      213: -2746927757117044685
+    second: Hairstyle_03_32x32_05_98
+  - first:
+      213: -7233695659504313402
+    second: Hairstyle_03_32x32_05_99
+  - first:
+      213: 4911906241924877726
+    second: Hairstyle_03_32x32_05_100
+  - first:
+      213: 5021282944702985874
+    second: Hairstyle_03_32x32_05_101
+  - first:
+      213: -6053093002666201368
+    second: Hairstyle_03_32x32_05_102
+  - first:
+      213: -5420018457810216530
+    second: Hairstyle_03_32x32_05_103
+  - first:
+      213: 7961344087902696604
+    second: Hairstyle_03_32x32_05_104
+  - first:
+      213: -6120365378971850634
+    second: Hairstyle_03_32x32_05_105
+  - first:
+      213: -3099116056293395586
+    second: Hairstyle_03_32x32_05_106
+  - first:
+      213: -3551776497582155467
+    second: Hairstyle_03_32x32_05_107
+  - first:
+      213: -3028165025532666707
+    second: Hairstyle_03_32x32_05_108
+  - first:
+      213: -457774042898856393
+    second: Hairstyle_03_32x32_05_109
+  - first:
+      213: -9210072876328713213
+    second: Hairstyle_03_32x32_05_110
+  - first:
+      213: 2250953109162913691
+    second: Hairstyle_03_32x32_05_111
+  - first:
+      213: 1220991484398071557
+    second: Hairstyle_03_32x32_05_112
+  - first:
+      213: -3087104840908866460
+    second: Hairstyle_03_32x32_05_113
+  - first:
+      213: 4700811028896109339
+    second: Hairstyle_03_32x32_05_114
+  - first:
+      213: -188933451966976342
+    second: Hairstyle_03_32x32_05_115
+  - first:
+      213: -1107844284968656637
+    second: Hairstyle_03_32x32_05_116
+  - first:
+      213: 4211842051788501633
+    second: Hairstyle_03_32x32_05_117
+  - first:
+      213: -1367845091613843018
+    second: Hairstyle_03_32x32_05_118
+  - first:
+      213: 3929533714135727962
+    second: Hairstyle_03_32x32_05_119
+  - first:
+      213: -7723453134442038065
+    second: Hairstyle_03_32x32_05_120
+  - first:
+      213: 8363724773075259035
+    second: Hairstyle_03_32x32_05_121
+  - first:
+      213: 918642613339121144
+    second: Hairstyle_03_32x32_05_122
+  - first:
+      213: -8405969001816168934
+    second: Hairstyle_03_32x32_05_123
+  - first:
+      213: 4775733915378768991
+    second: Hairstyle_03_32x32_05_124
+  - first:
+      213: -6185521428788391644
+    second: Hairstyle_03_32x32_05_125
+  - first:
+      213: 8147625028764170327
+    second: Hairstyle_03_32x32_05_126
+  - first:
+      213: 6250635579362587518
+    second: Hairstyle_03_32x32_05_127
+  - first:
+      213: -7598075033241524213
+    second: Hairstyle_03_32x32_05_128
+  - first:
+      213: -1602303602732673068
+    second: Hairstyle_03_32x32_05_129
+  - first:
+      213: 8051304456794571424
+    second: Hairstyle_03_32x32_05_130
+  - first:
+      213: 6386220610426858590
+    second: Hairstyle_03_32x32_05_131
+  - first:
+      213: 8717380140191649613
+    second: Hairstyle_03_32x32_05_132
+  - first:
+      213: -4064102051742300038
+    second: Hairstyle_03_32x32_05_133
+  - first:
+      213: -4616174817625185641
+    second: Hairstyle_03_32x32_05_134
+  - first:
+      213: 1019101998690614835
+    second: Hairstyle_03_32x32_05_135
+  - first:
+      213: 7632543455286360153
+    second: Hairstyle_03_32x32_05_136
+  - first:
+      213: -6440499789043598760
+    second: Hairstyle_03_32x32_05_137
+  - first:
+      213: -1910973743192240110
+    second: Hairstyle_03_32x32_05_138
+  - first:
+      213: -2777252706679102729
+    second: Hairstyle_03_32x32_05_139
+  - first:
+      213: -4726772204773098693
+    second: Hairstyle_03_32x32_05_140
+  - first:
+      213: -8392054730683248325
+    second: Hairstyle_03_32x32_05_141
+  - first:
+      213: -5628181813578856286
+    second: Hairstyle_03_32x32_05_142
+  - first:
+      213: -273937979641215228
+    second: Hairstyle_03_32x32_05_143
+  - first:
+      213: -6518022403968907839
+    second: Hairstyle_03_32x32_05_144
+  - first:
+      213: 5920077135451275216
+    second: Hairstyle_03_32x32_05_145
+  - first:
+      213: -4396835849269208180
+    second: Hairstyle_03_32x32_05_146
+  - first:
+      213: 2560191535859916819
+    second: Hairstyle_03_32x32_05_147
+  - first:
+      213: 5095466934679594626
+    second: Hairstyle_03_32x32_05_148
+  - first:
+      213: -4975525396736961694
+    second: Hairstyle_03_32x32_05_149
+  - first:
+      213: 2790940928587648152
+    second: Hairstyle_03_32x32_05_150
+  - first:
+      213: 8775314873065267309
+    second: Hairstyle_03_32x32_05_151
+  - first:
+      213: 8550908992043498590
+    second: Hairstyle_03_32x32_05_152
+  - first:
+      213: -4163920192098120635
+    second: Hairstyle_03_32x32_05_153
+  - first:
+      213: 1319008284150069392
+    second: Hairstyle_03_32x32_05_154
+  - first:
+      213: 8763916116995430511
+    second: Hairstyle_03_32x32_05_155
+  - first:
+      213: -5700041235769956279
+    second: Hairstyle_03_32x32_05_156
+  - first:
+      213: -4528411979141248396
+    second: Hairstyle_03_32x32_05_157
+  - first:
+      213: -4200257151353381014
+    second: Hairstyle_03_32x32_05_158
+  - first:
+      213: 3549281292755672162
+    second: Hairstyle_03_32x32_05_159
+  - first:
+      213: -3926121066306066894
+    second: Hairstyle_03_32x32_05_160
+  - first:
+      213: -1629512443940392011
+    second: Hairstyle_03_32x32_05_161
+  - first:
+      213: 6128886965752764874
+    second: Hairstyle_03_32x32_05_162
+  - first:
+      213: -4413340882810477870
+    second: Hairstyle_03_32x32_05_163
+  - first:
+      213: -8028166204573668123
+    second: Hairstyle_03_32x32_05_164
+  - first:
+      213: 5376223914097787391
+    second: Hairstyle_03_32x32_05_165
+  - first:
+      213: -6781820995290932053
+    second: Hairstyle_03_32x32_05_166
+  - first:
+      213: -6645843507512556265
+    second: Hairstyle_03_32x32_05_167
+  - first:
+      213: -4478524818335000674
+    second: Hairstyle_03_32x32_05_168
+  - first:
+      213: 2937028220645055349
+    second: Hairstyle_03_32x32_05_169
+  - first:
+      213: 319815642654145183
+    second: Hairstyle_03_32x32_05_170
+  - first:
+      213: 6114860741059657311
+    second: Hairstyle_03_32x32_05_171
+  - first:
+      213: -7548138612887842371
+    second: Hairstyle_03_32x32_05_172
+  - first:
+      213: 6208708495820740565
+    second: Hairstyle_03_32x32_05_173
+  - first:
+      213: 16660729311723449
+    second: Hairstyle_03_32x32_05_174
+  - first:
+      213: 2469532242186715804
+    second: Hairstyle_03_32x32_05_175
+  - first:
+      213: -6161123340441381696
+    second: Hairstyle_03_32x32_05_176
+  - first:
+      213: -6565520402000445544
+    second: Hairstyle_03_32x32_05_177
+  - first:
+      213: -5579187415308176639
+    second: Hairstyle_03_32x32_05_178
+  - first:
+      213: -8339160110748397227
+    second: Hairstyle_03_32x32_05_179
+  - first:
+      213: -4611730091244662547
+    second: Hairstyle_03_32x32_05_180
+  - first:
+      213: -1950681150312215266
+    second: Hairstyle_03_32x32_05_181
+  - first:
+      213: -2216368896836296652
+    second: Hairstyle_03_32x32_05_182
+  - first:
+      213: 7001986987137169253
+    second: Hairstyle_03_32x32_05_183
+  - first:
+      213: -7235697225530271726
+    second: Hairstyle_03_32x32_05_184
+  - first:
+      213: -1378286738433024836
+    second: Hairstyle_03_32x32_05_185
+  - first:
+      213: -8269138664645667450
+    second: Hairstyle_03_32x32_05_186
+  - first:
+      213: 5515972476964983999
+    second: Hairstyle_03_32x32_05_187
+  - first:
+      213: -1163840988668467709
+    second: Hairstyle_03_32x32_05_188
+  - first:
+      213: -2871103492023137605
+    second: Hairstyle_03_32x32_05_189
+  - first:
+      213: 3424585231961120320
+    second: Hairstyle_03_32x32_05_190
+  - first:
+      213: 6228935994071968161
+    second: Hairstyle_03_32x32_05_191
+  - first:
+      213: -8660818201746626442
+    second: Hairstyle_03_32x32_05_192
+  - first:
+      213: -1287721860358563652
+    second: Hairstyle_03_32x32_05_193
+  - first:
+      213: -2695918370704454195
+    second: Hairstyle_03_32x32_05_194
+  - first:
+      213: 1827143533294438844
+    second: Hairstyle_03_32x32_05_195
+  - first:
+      213: 5944081005433154796
+    second: Hairstyle_03_32x32_05_196
+  - first:
+      213: -5172174576297327949
+    second: Hairstyle_03_32x32_05_197
+  - first:
+      213: 4336530443683588552
+    second: Hairstyle_03_32x32_05_198
+  - first:
+      213: -6976694856216739753
+    second: Hairstyle_03_32x32_05_199
+  - first:
+      213: -7034335870903050743
+    second: Hairstyle_03_32x32_05_200
+  - first:
+      213: 2656969292780418592
+    second: Hairstyle_03_32x32_05_201
+  - first:
+      213: -1732571953354539169
+    second: Hairstyle_03_32x32_05_202
+  - first:
+      213: -2981208247962966385
+    second: Hairstyle_03_32x32_05_203
+  - first:
+      213: -1062095600942435604
+    second: Hairstyle_03_32x32_05_204
+  - first:
+      213: -8265664343453178474
+    second: Hairstyle_03_32x32_05_205
+  - first:
+      213: -2322945810799661070
+    second: Hairstyle_03_32x32_05_206
+  - first:
+      213: -7843548136562386115
+    second: Hairstyle_03_32x32_05_207
+  - first:
+      213: 1773809030857851396
+    second: Hairstyle_03_32x32_05_208
+  - first:
+      213: -3250047228520740411
+    second: Hairstyle_03_32x32_05_209
+  - first:
+      213: 5030922654021571160
+    second: Hairstyle_03_32x32_05_210
+  - first:
+      213: 462832066528263778
+    second: Hairstyle_03_32x32_05_211
+  - first:
+      213: -1791525122018102928
+    second: Hairstyle_03_32x32_05_212
+  - first:
+      213: -5592503108059498004
+    second: Hairstyle_03_32x32_05_213
+  - first:
+      213: -6838155349603621730
+    second: Hairstyle_03_32x32_05_214
+  - first:
+      213: 1618739379796738536
+    second: Hairstyle_03_32x32_05_215
+  - first:
+      213: 5055528700947276014
+    second: Hairstyle_03_32x32_05_216
+  - first:
+      213: -1319822919665264354
+    second: Hairstyle_03_32x32_05_217
+  - first:
+      213: 8816395298937738940
+    second: Hairstyle_03_32x32_05_218
+  - first:
+      213: 4023697377435080828
+    second: Hairstyle_03_32x32_05_219
+  - first:
+      213: -1607051239616673944
+    second: Hairstyle_03_32x32_05_220
+  - first:
+      213: -1419451593411089907
+    second: Hairstyle_03_32x32_05_221
+  - first:
+      213: -7020422435657866378
+    second: Hairstyle_03_32x32_05_222
+  - first:
+      213: 8894495926672510168
+    second: Hairstyle_03_32x32_05_223
+  - first:
+      213: 7563360035129068044
+    second: Hairstyle_03_32x32_05_224
+  - first:
+      213: -3901596476571184738
+    second: Hairstyle_03_32x32_05_225
+  - first:
+      213: -5668790336980775357
+    second: Hairstyle_03_32x32_05_226
+  - first:
+      213: -4929181677184677375
+    second: Hairstyle_03_32x32_05_227
+  - first:
+      213: -8628444893271732444
+    second: Hairstyle_03_32x32_05_228
+  - first:
+      213: -1200302826272057212
+    second: Hairstyle_03_32x32_05_229
+  - first:
+      213: 6695038323257809711
+    second: Hairstyle_03_32x32_05_230
+  - first:
+      213: 4707107041261703655
+    second: Hairstyle_03_32x32_05_231
+  - first:
+      213: 1878677045441887986
+    second: Hairstyle_03_32x32_05_232
+  - first:
+      213: 4308099205415730636
+    second: Hairstyle_03_32x32_05_233
+  - first:
+      213: -8115916049574412778
+    second: Hairstyle_03_32x32_05_234
+  - first:
+      213: 6701073000311719076
+    second: Hairstyle_03_32x32_05_235
+  - first:
+      213: -7884176656459599261
+    second: Hairstyle_03_32x32_05_236
+  - first:
+      213: 3401171537934309537
+    second: Hairstyle_03_32x32_05_237
+  - first:
+      213: 6533739159181379154
+    second: Hairstyle_03_32x32_05_238
+  - first:
+      213: 4739811694380792754
+    second: Hairstyle_03_32x32_05_239
+  - first:
+      213: 392010812836308587
+    second: Hairstyle_03_32x32_05_240
+  - first:
+      213: -3991907840292143416
+    second: Hairstyle_03_32x32_05_241
+  - first:
+      213: -6764831813834181380
+    second: Hairstyle_03_32x32_05_242
+  - first:
+      213: -733225089839172892
+    second: Hairstyle_03_32x32_05_243
+  - first:
+      213: -4931393951444375210
+    second: Hairstyle_03_32x32_05_244
+  - first:
+      213: -8476344088870620588
+    second: Hairstyle_03_32x32_05_245
+  - first:
+      213: -6278165087964142942
+    second: Hairstyle_03_32x32_05_246
+  - first:
+      213: -4472316708255084157
+    second: Hairstyle_03_32x32_05_247
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1267
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a2f21b971ee4e60800000000000000
+      internalID: 7948538305135454839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1265
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d985ed7571ac3a3e0800000000000000
+      internalID: -2043567604288825187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1267
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f206c4bbf83a4fb0800000000000000
+      internalID: -4662851810467904781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1203
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcd623c5a570c390800000000000000
+      internalID: -7800105199801541448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1203
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521c4cbc529546d50800000000000000
+      internalID: 6729601762065695013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1205
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eacb1d3b19c368b0800000000000000
+      internalID: -5160059629209924891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1205
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7de128004a1cf8e0800000000000000
+      internalID: -1658421700462514818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1203
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b235a9426b4cc60800000000000000
+      internalID: 7837589519855725443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1203
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cf4f09423694c40800000000000000
+      internalID: 5497033828884347989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_9
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1201
+        width: 194
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eace9c8aed9013880800000000000000
+      internalID: -8633108158773334866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_10
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1203
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0664ef0fa3d48e0800000000000000
+      internalID: -1707643876970962716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_11
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1203
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c351574294c2320800000000000000
+      internalID: 2534481111234722929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_12
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1205
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0acef3993d890c50800000000000000
+      internalID: 6631987204715366922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_13
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1205
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9709e0c983f27d640800000000000000
+      internalID: 5104600622830620793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_14
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1203
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367d65e3deb05e850800000000000000
+      internalID: 6405539158585431907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_15
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1203
+        width: 224
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0c86c1e4cb5a940800000000000000
+      internalID: 5306854779596095724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1139
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15294f3ad777fd9d0800000000000000
+      internalID: -2747345866167381423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_17
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1141
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a3f7efb4f81fe70800000000000000
+      internalID: 9147249874721257988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1139
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497a5b08a56301010800000000000000
+      internalID: 1157484866568562580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_19
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1139
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010659a03e7e59540800000000000000
+      internalID: 5014168722468069392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_20
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1141
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fefaa8a01a28dfb0800000000000000
+      internalID: -4622898766458192138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1139
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88eb8067cf0765520800000000000000
+      internalID: 2690462057014804104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1137
+        width: 194
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572074240036cad70800000000000000
+      internalID: 9055721803498324597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_23
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1139
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b698bf95e69fdb0800000000000000
+      internalID: -4757650198588986489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_24
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1141
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f7537c6f3ae4d50800000000000000
+      internalID: 6723491574010183455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_25
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1139
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723451eed34d993d0800000000000000
+      internalID: -3199292697817562329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_26
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1139
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1735a4ece8fb6a80800000000000000
+      internalID: -8472404577635453158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_27
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1141
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132dfdc85d0760620800000000000000
+      internalID: 2740001485795349041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_28
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1139
+        width: 224
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1088433d300bb9d0800000000000000
+      internalID: -2757610083980902371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1091
+        width: 193
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60292811fd05e7820800000000000000
+      internalID: 2917858527584358918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1011
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fc141b1750dd910800000000000000
+      internalID: 1863651806664576926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_31
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1011
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c98df4cb2d847d60800000000000000
+      internalID: 7887084066560641474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_32
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1013
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d74efac239ffadf0800000000000000
+      internalID: -166640664640075816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_33
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1013
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5293fb69813020b0800000000000000
+      internalID: -5755545857488088483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_34
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1011
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8b3941a4c270210800000000000000
+      internalID: 1299055714204104942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_35
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1011
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e13b4b6db45b9a0800000000000000
+      internalID: -6217980324988379592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_36
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1011
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cebc5ea2d5d4b480800000000000000
+      internalID: -8884241064049983805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_37
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1011
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea223c43008eeebb0800000000000000
+      internalID: -4904727856577043794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_38
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1013
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d55a9e7100feae10800000000000000
+      internalID: 2210968356295169494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_39
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1013
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424d51d30cf17c7c0800000000000000
+      internalID: -4051234429277449180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_40
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1011
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496f85e7244e14db0800000000000000
+      internalID: -4809311952816245100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_41
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1011
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94fdcec7ff4eb3a0800000000000000
+      internalID: -6647788074207152996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 947
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd4c8abae3a622e0800000000000000
+      internalID: -2150851543475401260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_43
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 947
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104d98c7b19e376d0800000000000000
+      internalID: -2993793023008451583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_44
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 949
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d1ba639d6e4b390800000000000000
+      internalID: -7803358433726751394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_45
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 949
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac97fadadda462220800000000000000
+      internalID: 2460736562366740938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_46
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 947
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0786cec480e3d2810800000000000000
+      internalID: 1742116836233472112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_47
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 947
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8b3ecd80cf07a30800000000000000
+      internalID: 4211142766587263141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_48
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 947
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a752da6254ed95b0800000000000000
+      internalID: -5359876938870401116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_49
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 947
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda4a507fd0bcc480800000000000000
+      internalID: -8877526291744929057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_50
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 949
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88de5d48ed76ac70800000000000000
+      internalID: 8982004943520979086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_51
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 949
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc4938a0337ea620800000000000000
+      internalID: 2787291872206867646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_52
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 947
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d7c5130cc1cb960800000000000000
+      internalID: 7618996281391480082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_53
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 947
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ae9be2f7f2864a0800000000000000
+      internalID: -6599973030620173796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 889
+        width: 385
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c5ff7d0aebd0ed0800000000000000
+      internalID: -2446089424564429670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 825
+        width: 385
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5991f15cd68c090800000000000000
+      internalID: -8014034843508042283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 755
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bcb3740bd5ae170800000000000000
+      internalID: 8208476282526878599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_57
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 757
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3396f2645e70d1c20800000000000000
+      internalID: 3178705593299855667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_58
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 755
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8759b3f522dbd70800000000000000
+      internalID: 9060435817756195029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_59
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 755
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48d80192e8f85a70800000000000000
+      internalID: 8816069922557319245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_60
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 757
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4473f25c0fd03b0800000000000000
+      internalID: -5544510836531837718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_61
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 755
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecd28febc7801b10800000000000000
+      internalID: 1950207948617866465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_62
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 753
+        width: 194
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145ae09ace1b98010800000000000000
+      internalID: 1191679206422914369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_63
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 755
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7fab87dd32e5fc0800000000000000
+      internalID: -3504324025927403570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_64
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 757
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69e522a3d3e1e410800000000000000
+      internalID: 1504734248616454510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_65
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 755
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aeb5c14d66d792a0800000000000000
+      internalID: -6730675353338659159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_66
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 755
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ab9bd0c0ace0bd0800000000000000
+      internalID: -2661968176610690433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_67
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 757
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561a0f5bc51cb4cd0800000000000000
+      internalID: -2572750158178508443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_68
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 755
+        width: 224
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72293fb95acb1c4a0800000000000000
+      internalID: -6574766561512156633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 691
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f18b5ffd4376780800000000000000
+      internalID: -8689918819483246712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_70
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 691
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f22979ba22ea2a0800000000000000
+      internalID: -6724399073239879936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_71
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 689
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20c1c423be1a4450800000000000000
+      internalID: 6073700802227191850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_72
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 687
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc63f440c4e8f8fa0800000000000000
+      internalID: -5796257738261580084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_73
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 687
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a448fe758fa0fc010800000000000000
+      internalID: 1211198886529434698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_74
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 689
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7615c543c41e9a810800000000000000
+      internalID: 1777199245386600807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_75
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 691
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf3b46083e1122e0800000000000000
+      internalID: -2152405920933789778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_76
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 691
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f70a36e15cdf61a0800000000000000
+      internalID: -6813985466875246605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_77
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 691
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5aa670d5915152e0800000000000000
+      internalID: -2138838644134860193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_78
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 691
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486915c0fab8490c0800000000000000
+      internalID: -4569874137931999612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_79
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 691
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd55820866b9fa30800000000000000
+      internalID: 4249628281235922382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_80
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 691
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bd3e756021fc3f0800000000000000
+      internalID: -878463583860303010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_81
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 685
+        width: 386
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c2b17c983167090800000000000000
+      internalID: -8037215002524177297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_82
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 691
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69377948ac11f740800000000000000
+      internalID: 5183956155192785262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_83
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 691
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1688c30acd9b57fc0800000000000000
+      internalID: -3497685178351056799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_84
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 689
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801e3e9e74cc9bdd0800000000000000
+      internalID: -2469718311397236472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_85
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 687
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0275c6dd9492709e0800000000000000
+      internalID: -1655308940811151584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_86
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 687
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e472c9a011ccaf5e0800000000000000
+      internalID: -1874961921281874098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_87
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 689
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d8801998ce932f0800000000000000
+      internalID: -992502167270552210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_88
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 691
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bc394bfc9598b70800000000000000
+      internalID: 8901744887097183069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_89
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 691
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e31d75a991f25e60800000000000000
+      internalID: 7949681934471074793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_90
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 691
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2812d61ca60daf0800000000000000
+      internalID: -373681390079606058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_91
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 691
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc905286f0d9f2880800000000000000
+      internalID: -8633509271148623412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_92
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 691
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6fd14f967fb75b0800000000000000
+      internalID: -5369426096269953345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_93
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 691
+        width: 416
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6f19d980b1adfe0800000000000000
+      internalID: -1163587829904574779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 627
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfa20ad999c3edf0800000000000000
+      internalID: -152056299775676471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_95
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 627
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cb1a06b4d24a110800000000000000
+      internalID: 1271190796592331925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_96
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 627
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b306e11918b289400800000000000000
+      internalID: 331062408097194043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_97
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 627
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f917cd7eae5842870800000000000000
+      internalID: 8657191627671761311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_98
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 627
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338c06d32c3f0e9d0800000000000000
+      internalID: -2746927757117044685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_99
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 627
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbd5f99f10cc9b90800000000000000
+      internalID: -7233695659504313402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_100
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 627
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9dc4ffd3b89a2440800000000000000
+      internalID: 4911906241924877726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_101
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 627
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296bfbbfb3e2fa540800000000000000
+      internalID: 5021282944702985874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_102
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 627
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eeada71cf71ffba0800000000000000
+      internalID: -6053093002666201368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_103
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 627
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9592adde938c4b0800000000000000
+      internalID: -5420018457810216530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_104
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 625
+        width: 322
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94b81654406c7e60800000000000000
+      internalID: 7961344087902696604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_105
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 627
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678a8ca6d18101ba0800000000000000
+      internalID: -6120365378971850634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_106
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 627
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e733ceadd5abdf4d0800000000000000
+      internalID: -3099116056293395586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_107
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 627
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539d804f71e85bec0800000000000000
+      internalID: -3551776497582155467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_108
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 627
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac1dd304fbc9f5d0800000000000000
+      internalID: -3028165025532666707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_109
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 627
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7368e91fee8a5a9f0800000000000000
+      internalID: -457774042898856393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_110
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 627
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30487fa148f3f2080800000000000000
+      internalID: -9210072876328713213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_111
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 627
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f67bd3dedfc3f10800000000000000
+      internalID: 2250953109162913691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_112
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 627
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fe2553945d1f010800000000000000
+      internalID: 1220991484398071557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_113
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 627
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cfc3dd0866825d0800000000000000
+      internalID: -3087104840908866460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_114
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 627
+        width: 352
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13579d89b2ac3140800000000000000
+      internalID: 4700811028896109339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 563
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaee155c606c06df0800000000000000
+      internalID: -188933451966976342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_116
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 563
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3012fff0e7520a0f0800000000000000
+      internalID: -1107844284968656637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_117
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 561
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182f7e2e708737a30800000000000000
+      internalID: 4211842051788501633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_118
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 561
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b16896e220740de0800000000000000
+      internalID: -1367845091613843018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_119
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 561
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f3bfbe712888630800000000000000
+      internalID: 3929533714135727962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_120
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 561
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc743a7b48c0d490800000000000000
+      internalID: -7723453134442038065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_121
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 563
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e09424e5be11470800000000000000
+      internalID: 8363724773075259035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_122
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 563
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f56d93f69cafbc00800000000000000
+      internalID: 918642613339121144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_123
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 563
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a166dc5cabff75b80800000000000000
+      internalID: -8405969001816168934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_124
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 561
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cdfef61b0d64240800000000000000
+      internalID: 4775733915378768991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_125
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 561
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4215086680d982aa0800000000000000
+      internalID: -6185521428788391644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_126
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 561
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758f192bbcd221170800000000000000
+      internalID: 8147625028764170327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_127
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 561
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73335031f7beb650800000000000000
+      internalID: 6250635579362587518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_128
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 563
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08efda73073e8690800000000000000
+      internalID: -7598075033241524213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_129
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 559
+        width: 450
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d75ac8dc5973c9e0800000000000000
+      internalID: -1602303602732673068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_130
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 563
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a282cdeebafbbf60800000000000000
+      internalID: 8051304456794571424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_131
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 563
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c65cd3fc960a850800000000000000
+      internalID: 6386220610426858590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_132
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 561
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f0b240d0b5af870800000000000000
+      internalID: 8717380140191649613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_133
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 561
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78c6fa67b86997c0800000000000000
+      internalID: -4064102051742300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_134
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 561
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792e85ef57d00ffb0800000000000000
+      internalID: -4616174817625185641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_135
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 561
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e38dd4ed3942e00800000000000000
+      internalID: 1019101998690614835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_136
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 563
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958731965dd3ce960800000000000000
+      internalID: 7632543455286360153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_137
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 563
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85af31aa09fbe96a0800000000000000
+      internalID: -6440499789043598760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_138
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 563
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2109ded518bda75e0800000000000000
+      internalID: -1910973743192240110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_139
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 561
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f266e6b0673579d0800000000000000
+      internalID: -2777252706679102729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_140
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 561
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b3f4829b1276eb0800000000000000
+      internalID: -4726772204773098693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_141
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 561
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b311df97fae698b80800000000000000
+      internalID: -8392054730683248325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_142
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 561
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8815eb57ea4e1b0800000000000000
+      internalID: -5628181813578856286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_143
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 563
+        width: 479
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4074ff0ebd6c23cf0800000000000000
+      internalID: -273937979641215228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5456558255b85a0800000000000000
+      internalID: -6518022403968907839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_145
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 499
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df3c7de9c6582250800000000000000
+      internalID: 5920077135451275216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_146
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 497
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b1b9c271d4bf2c0800000000000000
+      internalID: -4396835849269208180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_147
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 497
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31064eb23a0a78320800000000000000
+      internalID: 2560191535859916819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_148
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 497
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286635e1e2cb6b640800000000000000
+      internalID: 5095466934679594626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_149
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 497
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2631f8c530263fab0800000000000000
+      internalID: -4975525396736961694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_150
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 499
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89cc09dccf96bb620800000000000000
+      internalID: 2790940928587648152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_151
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 499
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60e149226e28c970800000000000000
+      internalID: 8775314873065267309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_152
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 499
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c32717c6eeaa670800000000000000
+      internalID: 8550908992043498590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_153
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 495
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c4aec85a8c636c0800000000000000
+      internalID: -4163920192098120635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_154
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 497
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098ff88cb0f0e4210800000000000000
+      internalID: 1319008284150069392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_155
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 497
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6855d2764faf9970800000000000000
+      internalID: 8763916116995430511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_156
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 499
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9486ad832b265e0b0800000000000000
+      internalID: -5700041235769956279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_157
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 499
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a89aa2c49d721c0800000000000000
+      internalID: -4528411979141248396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_158
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 493
+        width: 450
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f9940ff50b5b5c0800000000000000
+      internalID: -4200257151353381014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_159
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 499
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c14a6e784914130800000000000000
+      internalID: 3549281292755672162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_160
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 499
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23626a111bd9389c0800000000000000
+      internalID: -3926121066306066894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_161
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 497
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3bad5d01fc269e0800000000000000
+      internalID: -1629512443940392011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_162
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 497
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9173e193e2e0550800000000000000
+      internalID: 6128886965752764874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_163
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 497
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d26f5799d9a0c2c0800000000000000
+      internalID: -4413340882810477870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_164
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 497
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec279a3f59369090800000000000000
+      internalID: -8028166204573668123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_165
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 499
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff142c85a2f2c9a40800000000000000
+      internalID: 5376223914097787391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_166
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 499
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacd5658cb122e1a0800000000000000
+      internalID: -6781820995290932053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_167
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 499
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715c0e58a8835c3a0800000000000000
+      internalID: -6645843507512556265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_168
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 495
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e971f5de76519d1c0800000000000000
+      internalID: -4478524818335000674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_169
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 497
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b98da0b9b62c820800000000000000
+      internalID: 2937028220645055349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_170
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 497
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a730ee1a6307400800000000000000
+      internalID: 319815642654145183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_171
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 499
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5eb7d132795cd450800000000000000
+      internalID: 6114860741059657311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_172
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 499
+        width: 479
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1196f5cef9f3790800000000000000
+      internalID: -7548138612887842371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_173
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 435
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d758575b73c92650800000000000000
+      internalID: 6208708495820740565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_174
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 435
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bff25458d03b3000800000000000000
+      internalID: 16660729311723449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_175
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 433
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92c9e87d7a854220800000000000000
+      internalID: 2469532242186715804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_176
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 435
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c49f9307fa4f7aa0800000000000000
+      internalID: -6161123340441381696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_177
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 435
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ffe21eaf592e4a0800000000000000
+      internalID: -6565520402000445544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_178
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 435
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103f9370b9eb292b0800000000000000
+      internalID: -5579187415308176639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_179
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 431
+        width: 194
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5511cb1ef0a554c80800000000000000
+      internalID: -8339160110748397227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_180
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 435
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0d16f7ae7dfffb0800000000000000
+      internalID: -4611730091244662547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_181
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 435
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d079534d9cde4e0800000000000000
+      internalID: -1950681150312215266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_182
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 433
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43029dc2b30ed31e0800000000000000
+      internalID: -2216368896836296652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_183
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 435
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567f732111e0c2160800000000000000
+      internalID: 7001986987137169253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_184
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 435
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2181df1b5b3a59b90800000000000000
+      internalID: -7235697225530271726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_185
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 435
+        width: 224
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc511d83875fdce0800000000000000
+      internalID: -1378286738433024836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_186
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685d85f323e1e3d80800000000000000
+      internalID: -8269138664645667450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_187
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 371
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb454503ebbac8c40800000000000000
+      internalID: 5515972476964983999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_188
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 369
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306606f79c439dfe0800000000000000
+      internalID: -1163840988668467709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_189
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 371
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbac394f59ac728d0800000000000000
+      internalID: -2871103492023137605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_190
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 371
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e571ecf12968f20800000000000000
+      internalID: 3424585231961120320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_191
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 371
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9ed47c840a17650800000000000000
+      internalID: 6228935994071968161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_192
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 367
+        width: 194
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678a7a48bb79ec780800000000000000
+      internalID: -8660818201746626442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_193
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 371
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb892d76ac7112ee0800000000000000
+      internalID: -1287721860358563652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_194
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 371
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd06b2868c269ad0800000000000000
+      internalID: -2695918370704454195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_195
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 369
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9caa7ec515b5910800000000000000
+      internalID: 1827143533294438844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_196
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 371
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec6dfc6e2e9d7250800000000000000
+      internalID: 5944081005433154796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_197
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 371
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2cd7f40aeb838b0800000000000000
+      internalID: -5172174576297327949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_198
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 371
+        width: 224
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c96d6d66737e2c30800000000000000
+      internalID: 4336530443683588552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_199
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 307
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75008ec0efccd2f90800000000000000
+      internalID: -6976694856216739753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_200
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 307
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e19008bc4016e90800000000000000
+      internalID: -7034335870903050743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_201
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 305
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0263c4b9e737fd420800000000000000
+      internalID: 2656969292780418592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_202
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 307
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f7f7cecfaa4f7e0800000000000000
+      internalID: -1732571953354539169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_203
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 307
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86e3b2c4ee90a6d0800000000000000
+      internalID: -2981208247962966385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_204
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 307
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2325c9dada241f0800000000000000
+      internalID: -1062095600942435604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_205
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 303
+        width: 194
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6956cdfa2167a4d80800000000000000
+      internalID: -8265664343453178474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_206
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 307
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffedc2b71d33cfd0800000000000000
+      internalID: -2322945810799661070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_207
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 307
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b9585d68e162390800000000000000
+      internalID: -7843548136562386115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_208
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 305
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40289af5ae5dd9810800000000000000
+      internalID: 1773809030857851396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_209
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 307
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c947c0e34385e2d0800000000000000
+      internalID: -3250047228520740411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_210
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 307
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852db65bf7d61d540800000000000000
+      internalID: 5030922654021571160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_211
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 307
+        width: 224
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26eb314ff4f4c6600800000000000000
+      internalID: 462832066528263778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_212
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0713ce7b4693327e0800000000000000
+      internalID: -1791525122018102928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_213
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 243
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce978d6bd007362b0800000000000000
+      internalID: -5592503108059498004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_214
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 243
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9460fb80fdf911a0800000000000000
+      internalID: -6838155349603621730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_215
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 243
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e188b4b3eae67610800000000000000
+      internalID: 1618739379796738536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_216
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 241
+        width: 130
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee021c37198d82640800000000000000
+      internalID: 5055528700947276014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_217
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 243
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19deea1c0c0fade0800000000000000
+      internalID: -1319822919665264354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_218
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 243
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb69b9820d02a5a70800000000000000
+      internalID: 8816395298937738940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_219
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 243
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7850b1427b07d730800000000000000
+      internalID: 4023697377435080828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_220
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 243
+        width: 160
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8670cce796b92b9e0800000000000000
+      internalID: -1607051239616673944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_221
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0aaededb481d4ce0800000000000000
+      internalID: -1419451593411089907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_222
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 179
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6732e659df2729e90800000000000000
+      internalID: -7020422435657866378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_223
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 181
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc49759be89f6b70800000000000000
+      internalID: 8894495926672510168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_224
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 181
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a014a21e376f860800000000000000
+      internalID: 7563360035129068044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_225
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 179
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e911f051daebad9c0800000000000000
+      internalID: -3901596476571184738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_226
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 179
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e081a19396451b0800000000000000
+      internalID: -5668790336980775357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_227
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 177
+        width: 194
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a0b0a6167089bb0800000000000000
+      internalID: -4929181677184677375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_228
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 179
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f4184c51b914880800000000000000
+      internalID: -8628444893271732444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_229
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 179
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488182160faa75fe0800000000000000
+      internalID: -1200302826272057212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_230
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 181
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b986712ed89ec50800000000000000
+      internalID: 6695038323257809711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_231
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 181
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1d42a2ae0035140800000000000000
+      internalID: 4707107041261703655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_232
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 179
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe7e35b1d6621a10800000000000000
+      internalID: 1878677045441887986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_233
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 179
+        width: 224
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd72fbe66179cb30800000000000000
+      internalID: 4308099205415730636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_234
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61eb9365a597e5f80800000000000000
+      internalID: -8115916049574412778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_235
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 115
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a48a85d36efefc50800000000000000
+      internalID: 6701073000311719076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_236
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 115
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3627c456a17c59290800000000000000
+      internalID: -7884176656459599261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_237
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 113
+        width: 98
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a85eba5e73633f20800000000000000
+      internalID: 3401171537934309537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_238
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 115
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256c016e5218caa50800000000000000
+      internalID: 6533739159181379154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_239
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 115
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb3fc99f9137c140800000000000000
+      internalID: 4739811694380792754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_240
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 115
+        width: 128
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66683fd1c3b07500800000000000000
+      internalID: 392010812836308587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_241
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce3a4328f4e998c0800000000000000
+      internalID: -3991907840292143416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_242
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 49
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4f6239e4d7e12a0800000000000000
+      internalID: -6764831813834181380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_243
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 51
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e27bb36aaf03d5f0800000000000000
+      internalID: -733225089839172892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_244
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 47
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659e5ac245b209bb0800000000000000
+      internalID: -4931393951444375210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_245
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 51
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45272e4f5f9fd5a80800000000000000
+      internalID: -8476344088870620588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_246
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 49
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a263aa9d1a7fd8a0800000000000000
+      internalID: -6278165087964142942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_03_32x32_05_247
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 51
+        width: 128
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381596136a32fe1c0800000000000000
+      internalID: -4472316708255084157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
