@@ -162,20 +162,20 @@ TextureImporter:
       name: Book_32x32_06_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 807
-        width: 22
-        height: 14
+        x: 0
+        y: 800
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 114ad43839da6d130800000000000000
-      internalID: 3591248601949250577
+      spriteID: d0187b74a0d0b3c49aa9d0dc13f22b9d
+      internalID: 990123559
       vertices: []
       indices: 
       edges: []
@@ -184,20 +184,20 @@ TextureImporter:
       name: Book_32x32_06_1
       rect:
         serializedVersion: 2
-        x: 37
-        y: 807
-        width: 22
-        height: 14
+        x: 32
+        y: 800
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c1a5d6727dd05d3c0800000000000000
-      internalID: -4335543848543626724
+      spriteID: 55e2cc75ae703dd45bbeefe3d433da2b
+      internalID: -765671409
       vertices: []
       indices: 
       edges: []
@@ -206,20 +206,20 @@ TextureImporter:
       name: Book_32x32_06_2
       rect:
         serializedVersion: 2
-        x: 69
-        y: 807
-        width: 22
-        height: 14
+        x: 64
+        y: 800
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9d1d6696cb4f9f430800000000000000
-      internalID: 3817351249232581081
+      spriteID: 1d3442f38b2123b488698497ab13869c
+      internalID: -1990992529
       vertices: []
       indices: 
       edges: []
@@ -228,20 +228,20 @@ TextureImporter:
       name: Book_32x32_06_3
       rect:
         serializedVersion: 2
-        x: 101
-        y: 807
-        width: 22
-        height: 14
+        x: 96
+        y: 800
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 54acceae8f9135970800000000000000
-      internalID: 8742359858540235333
+      spriteID: bab6d0c9d8c22ae4db42517b6f973fba
+      internalID: -1308669523
       vertices: []
       indices: 
       edges: []
@@ -250,20 +250,20 @@ TextureImporter:
       name: Book_32x32_06_4
       rect:
         serializedVersion: 2
-        x: 133
-        y: 807
-        width: 22
-        height: 14
+        x: 128
+        y: 800
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 55da66b8dc21a7690800000000000000
-      internalID: -7603744346845303467
+      spriteID: 4e5a7a3d60d1c3d4c89e352d1bd50c70
+      internalID: -1057895137
       vertices: []
       indices: 
       edges: []
@@ -272,20 +272,20 @@ TextureImporter:
       name: Book_32x32_06_5
       rect:
         serializedVersion: 2
-        x: 165
-        y: 807
-        width: 22
-        height: 14
+        x: 160
+        y: 800
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c2270e530121e91c0800000000000000
-      internalID: -4495135517236497876
+      spriteID: 9d751b2cb6b1a844e8dfac17f344abdb
+      internalID: 952148871
       vertices: []
       indices: 
       edges: []
@@ -294,20 +294,20 @@ TextureImporter:
       name: Book_32x32_06_6
       rect:
         serializedVersion: 2
-        x: 197
-        y: 807
-        width: 22
-        height: 14
+        x: 192
+        y: 800
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3e89e868cedea1600800000000000000
-      internalID: 439925513747601635
+      spriteID: e5205c5fc823a904e8ffaed746c99190
+      internalID: 950829496
       vertices: []
       indices: 
       edges: []
@@ -316,20 +316,20 @@ TextureImporter:
       name: Book_32x32_06_7
       rect:
         serializedVersion: 2
-        x: 229
-        y: 807
-        width: 22
-        height: 14
+        x: 224
+        y: 800
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cd91da08aa46252b0800000000000000
-      internalID: -5597300703402059300
+      spriteID: aa01e80346578024fb7131ceb071ece0
+      internalID: -1254337674
       vertices: []
       indices: 
       edges: []
@@ -338,20 +338,20 @@ TextureImporter:
       name: Book_32x32_06_8
       rect:
         serializedVersion: 2
-        x: 261
-        y: 807
-        width: 22
-        height: 14
+        x: 256
+        y: 800
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 73c7467f0f571c980800000000000000
-      internalID: -8520399342205109193
+      spriteID: ef25cb3e5746a494a9441c2725b0fa78
+      internalID: 967188571
       vertices: []
       indices: 
       edges: []
@@ -360,20 +360,20 @@ TextureImporter:
       name: Book_32x32_06_9
       rect:
         serializedVersion: 2
-        x: 293
-        y: 807
-        width: 22
-        height: 14
+        x: 288
+        y: 800
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6fc15a015ce215430800000000000000
-      internalID: 3769845787008507126
+      spriteID: 810e44e1522ca6e459f29b4259da541a
+      internalID: -1185266967
       vertices: []
       indices: 
       edges: []
@@ -382,20 +382,20 @@ TextureImporter:
       name: Book_32x32_06_10
       rect:
         serializedVersion: 2
-        x: 325
-        y: 807
-        width: 22
-        height: 14
+        x: 320
+        y: 800
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fd5bfc70f2272e600800000000000000
-      internalID: 496084455284258271
+      spriteID: 5c4d6303a921cc44c8b83a0698632e47
+      internalID: 200480062
       vertices: []
       indices: 
       edges: []
@@ -404,20 +404,20 @@ TextureImporter:
       name: Book_32x32_06_11
       rect:
         serializedVersion: 2
-        x: 357
-        y: 807
-        width: 22
-        height: 14
+        x: 352
+        y: 800
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e16e448f96bd37070800000000000000
-      internalID: 8103061402752968222
+      spriteID: 32fe97deddfc7174ea3c744d5a5239c1
+      internalID: -1111038231
       vertices: []
       indices: 
       edges: []
@@ -426,7 +426,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 2140718dd8a174743a3e1b8245158b34
     internalID: 0
     vertices: []
     indices: 
@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Book_32x32_06_0: 990123559
+      Book_32x32_06_1: -765671409
+      Book_32x32_06_10: 200480062
+      Book_32x32_06_11: -1111038231
+      Book_32x32_06_2: -1990992529
+      Book_32x32_06_3: -1308669523
+      Book_32x32_06_4: -1057895137
+      Book_32x32_06_5: 952148871
+      Book_32x32_06_6: 950829496
+      Book_32x32_06_7: -1254337674
+      Book_32x32_06_8: 967188571
+      Book_32x32_06_9: -1185266967
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

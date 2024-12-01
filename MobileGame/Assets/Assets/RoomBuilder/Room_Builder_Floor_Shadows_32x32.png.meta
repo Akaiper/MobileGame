@@ -168,331 +168,419 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Room_Builder_Floor_Shadows_32x32_0
+      name: Room_Builder_Floor_Shadows_32x32_17
       rect:
         serializedVersion: 2
-        x: 103
-        y: 127
-        width: 62
-        height: 26
+        x: 320
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 47834540d5d365fd0800000000000000
-      internalID: -2353626285540624268
+      spriteID: e9cb15a9421ace14c876ec9240563da3
+      internalID: -630550598
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Room_Builder_Floor_Shadows_32x32_1
+      name: Room_Builder_Floor_Shadows_32x32_19
       rect:
         serializedVersion: 2
-        x: 231
-        y: 107
-        width: 48
-        height: 26
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 794612ebc28e7ddb0800000000000000
-      internalID: -4767086401682316137
+      spriteID: d23e4427ef0346c4ab0ee78d1cdb54b0
+      internalID: -140902532
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Room_Builder_Floor_Shadows_32x32_2
+      name: Room_Builder_Floor_Shadows_32x32_20
       rect:
         serializedVersion: 2
-        x: 279
-        y: 107
-        width: 28
-        height: 22
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 13697e34465908790800000000000000
-      internalID: -7529854319094950351
+      spriteID: aabb806de6bbb1f488b54204d10fe9a5
+      internalID: 970854105
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Room_Builder_Floor_Shadows_32x32_3
+      name: Room_Builder_Floor_Shadows_32x32_21
       rect:
         serializedVersion: 2
-        x: 307
-        y: 107
-        width: 18
-        height: 22
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 28facd082be737040800000000000000
-      internalID: 4644194945880338306
+      spriteID: 21c42e451e06bfb46bef151c766f4486
+      internalID: -1306259838
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Room_Builder_Floor_Shadows_32x32_4
+      name: Room_Builder_Floor_Shadows_32x32_22
       rect:
         serializedVersion: 2
-        x: 325
-        y: 103
-        width: 44
-        height: 34
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 651274d4964e51710800000000000000
-      internalID: 1663486778302472534
+      spriteID: 1214b97a3911c3c448b7d941d4185da6
+      internalID: 16993783
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Room_Builder_Floor_Shadows_32x32_5
+      name: Room_Builder_Floor_Shadows_32x32_23
       rect:
         serializedVersion: 2
-        x: 367
-        y: 107
-        width: 52
-        height: 28
+        x: 128
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d70dcc70e7c189e30800000000000000
-      internalID: 4510386354433871997
+      spriteID: be28acb42bfca0b419284280fdce10fb
+      internalID: -565878825
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Room_Builder_Floor_Shadows_32x32_6
+      name: Room_Builder_Floor_Shadows_32x32_24
       rect:
         serializedVersion: 2
-        x: 91
-        y: 97
-        width: 90
-        height: 26
+        x: 160
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 26587e174d11b5a00800000000000000
-      internalID: 746209767401686370
+      spriteID: 260574a5a7720a14b847a8ef6afebda9
+      internalID: 1071543465
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Room_Builder_Floor_Shadows_32x32_7
+      name: Room_Builder_Floor_Shadows_32x32_25
       rect:
         serializedVersion: 2
-        x: 319
-        y: 71
-        width: 34
-        height: 26
+        x: 192
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1abe92d605b570200800000000000000
-      internalID: 146185913899805601
+      spriteID: 60241921e02f8e043af9861477a51032
+      internalID: -1871550096
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Room_Builder_Floor_Shadows_32x32_8
+      name: Room_Builder_Floor_Shadows_32x32_26
       rect:
         serializedVersion: 2
-        x: 393
-        y: 67
-        width: 18
-        height: 30
+        x: 224
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7cb1ae7aa2aaab050800000000000000
-      internalID: 5817148968884902855
+      spriteID: d28d151ca4c287041968fbf485b633d5
+      internalID: -325215386
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Room_Builder_Floor_Shadows_32x32_9
+      name: Room_Builder_Floor_Shadows_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708a2278fb250934ab32d37d6bd164b9
+      internalID: 915552352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floor_Shadows_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbb34a7be52c05479dcb8cdd67b3bd6
+      internalID: -850083447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floor_Shadows_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18f23fd58ea06f4fb3d29cccd0d4f46
+      internalID: -2007314923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floor_Shadows_32x32_30
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 71
-        height: 65
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 719183aa5980016c0800000000000000
-      internalID: -4174827415673497321
+      spriteID: bd603417504a8904c89ea3de62c53cb2
+      internalID: 778781664
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Room_Builder_Floor_Shadows_32x32_10
+      name: Room_Builder_Floor_Shadows_32x32_31
       rect:
         serializedVersion: 2
-        x: 95
+        x: 32
         y: 0
-        width: 78
-        height: 65
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3213f1f91b42bd580800000000000000
-      internalID: -8801400701468069597
+      spriteID: c99488c7045338e4f88efba54e126e8c
+      internalID: 1072236019
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Room_Builder_Floor_Shadows_32x32_11
+      name: Room_Builder_Floor_Shadows_32x32_32
       rect:
         serializedVersion: 2
-        x: 191
+        x: 96
         y: 0
-        width: 84
-        height: 65
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4158bd1a229b85570800000000000000
-      internalID: 8455711858783651092
+      spriteID: 98ac7ba9395464144aa17849d363e42c
+      internalID: -782652737
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Room_Builder_Floor_Shadows_32x32_12
+      name: Room_Builder_Floor_Shadows_32x32_33
       rect:
         serializedVersion: 2
-        x: 287
-        y: 31
-        width: 28
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b026ae398c618b020800000000000000
-      internalID: 2357659455659336203
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Room_Builder_Floor_Shadows_32x32_13
-      rect:
-        serializedVersion: 2
-        x: 357
-        y: 31
-        width: 28
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 50c0caf161b3b9b30800000000000000
-      internalID: 4295091635834588165
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Room_Builder_Floor_Shadows_32x32_14
-      rect:
-        serializedVersion: 2
-        x: 319
+        x: 128
         y: 0
-        width: 34
-        height: 27
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0664d449a2297ff40800000000000000
-      internalID: 5762234959818212960
+      spriteID: f9f9d364552cb3c48bee65c9d42a60c2
+      internalID: -1242286989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floor_Shadows_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b7ddbdaba090d4cb336a1b35ac5b9f
+      internalID: 1520693030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floor_Shadows_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e960e2cdba1ed44b24f8395e881d22
+      internalID: 225785319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floor_Shadows_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88e41ac82db19e4f845765a76f93a81
+      internalID: -826431698
       vertices: []
       indices: 
       edges: []
@@ -501,7 +589,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ea7ccaa5efbd23e459b446f2d133ddd9
     internalID: 0
     vertices: []
     indices: 
@@ -510,7 +598,45 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Room_Builder_Floor_Shadows_32x32_0: -1079531009
+      Room_Builder_Floor_Shadows_32x32_1: 441549714
+      Room_Builder_Floor_Shadows_32x32_10: -1389469020
+      Room_Builder_Floor_Shadows_32x32_11: 1763743490
+      Room_Builder_Floor_Shadows_32x32_12: -1151127831
+      Room_Builder_Floor_Shadows_32x32_13: 1905815628
+      Room_Builder_Floor_Shadows_32x32_14: 299410321
+      Room_Builder_Floor_Shadows_32x32_15: 2102777458
+      Room_Builder_Floor_Shadows_32x32_16: -1521228781
+      Room_Builder_Floor_Shadows_32x32_17: -630550598
+      Room_Builder_Floor_Shadows_32x32_18: -1856483529
+      Room_Builder_Floor_Shadows_32x32_19: -140902532
+      Room_Builder_Floor_Shadows_32x32_2: 1132933863
+      Room_Builder_Floor_Shadows_32x32_20: 970854105
+      Room_Builder_Floor_Shadows_32x32_21: -1306259838
+      Room_Builder_Floor_Shadows_32x32_22: 16993783
+      Room_Builder_Floor_Shadows_32x32_23: -565878825
+      Room_Builder_Floor_Shadows_32x32_24: 1071543465
+      Room_Builder_Floor_Shadows_32x32_25: -1871550096
+      Room_Builder_Floor_Shadows_32x32_26: -325215386
+      Room_Builder_Floor_Shadows_32x32_27: 915552352
+      Room_Builder_Floor_Shadows_32x32_28: -850083447
+      Room_Builder_Floor_Shadows_32x32_29: -2007314923
+      Room_Builder_Floor_Shadows_32x32_3: 1957717893
+      Room_Builder_Floor_Shadows_32x32_30: 778781664
+      Room_Builder_Floor_Shadows_32x32_31: 1072236019
+      Room_Builder_Floor_Shadows_32x32_32: -782652737
+      Room_Builder_Floor_Shadows_32x32_33: -1242286989
+      Room_Builder_Floor_Shadows_32x32_34: 1520693030
+      Room_Builder_Floor_Shadows_32x32_35: 225785319
+      Room_Builder_Floor_Shadows_32x32_36: -826431698
+      Room_Builder_Floor_Shadows_32x32_37: 430559418
+      Room_Builder_Floor_Shadows_32x32_4: -784917650
+      Room_Builder_Floor_Shadows_32x32_5: 577785424
+      Room_Builder_Floor_Shadows_32x32_6: 138856829
+      Room_Builder_Floor_Shadows_32x32_7: -191130727
+      Room_Builder_Floor_Shadows_32x32_8: 508123962
+      Room_Builder_Floor_Shadows_32x32_9: -860550327
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
