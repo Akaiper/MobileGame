@@ -150,20 +150,20 @@ TextureImporter:
       name: Smartphone_32x32_1_0
       rect:
         serializedVersion: 2
-        x: 37
-        y: 69
-        width: 8
-        height: 12
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f298960ee67053970800000000000000
-      internalID: 8733895225147754799
+      spriteID: e7d9bcaa61cd0934787045fad0584335
+      internalID: -1172417978
       vertices: []
       indices: 
       edges: []
@@ -172,20 +172,20 @@ TextureImporter:
       name: Smartphone_32x32_1_1
       rect:
         serializedVersion: 2
-        x: 71
-        y: 69
-        width: 10
-        height: 14
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 346ffff513667be70800000000000000
-      internalID: 9130879131767010883
+      spriteID: 388b7f03f8a5fde4bbc6fd3b3973782f
+      internalID: 2111170436
       vertices: []
       indices: 
       edges: []
@@ -194,20 +194,20 @@ TextureImporter:
       name: Smartphone_32x32_1_2
       rect:
         serializedVersion: 2
-        x: 105
-        y: 71
-        width: 12
-        height: 14
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: adb557fa9027050d0800000000000000
-      internalID: -3436121129759712294
+      spriteID: 8347d1971ca98af4a8944a8b4fb10664
+      internalID: -730814857
       vertices: []
       indices: 
       edges: []
@@ -216,20 +216,20 @@ TextureImporter:
       name: Smartphone_32x32_1_3
       rect:
         serializedVersion: 2
-        x: 137
-        y: 71
-        width: 12
-        height: 14
+        x: 128
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2d807bbf52ae66700800000000000000
-      internalID: 533371054747748562
+      spriteID: 9b84c4bb96e96c9408e8736c0d9fd472
+      internalID: -542425796
       vertices: []
       indices: 
       edges: []
@@ -238,20 +238,20 @@ TextureImporter:
       name: Smartphone_32x32_1_4
       rect:
         serializedVersion: 2
-        x: 169
-        y: 73
-        width: 12
-        height: 12
+        x: 160
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e6a743b47b4376b60800000000000000
-      internalID: 7739212446504876654
+      spriteID: 35e94a3cda5f85447b3cd28252d4c376
+      internalID: -371023356
       vertices: []
       indices: 
       edges: []
@@ -260,20 +260,20 @@ TextureImporter:
       name: Smartphone_32x32_1_5
       rect:
         serializedVersion: 2
-        x: 201
-        y: 71
-        width: 12
-        height: 14
+        x: 192
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: dc428da5bac11e960800000000000000
-      internalID: 7629410766031430861
+      spriteID: d8cb89cf8ff172946a4b79f4e9b5d290
+      internalID: -666262815
       vertices: []
       indices: 
       edges: []
@@ -282,20 +282,20 @@ TextureImporter:
       name: Smartphone_32x32_1_6
       rect:
         serializedVersion: 2
-        x: 233
-        y: 71
-        width: 12
-        height: 14
+        x: 224
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3c8cb4c76d4fb9c50800000000000000
-      internalID: 6673196474925041859
+      spriteID: 7010ff44dc88fde4eb55c4771fc1b778
+      internalID: 1551353041
       vertices: []
       indices: 
       edges: []
@@ -304,20 +304,20 @@ TextureImporter:
       name: Smartphone_32x32_1_7
       rect:
         serializedVersion: 2
-        x: 265
-        y: 71
-        width: 12
-        height: 14
+        x: 256
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e686c28a91fbb3080800000000000000
-      internalID: -9206554896312276882
+      spriteID: c71a033224192e74cadac07285b537ee
+      internalID: 1543724810
       vertices: []
       indices: 
       edges: []
@@ -326,7 +326,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 7096a7ae87f68694b9df10cf72bd0e91
     internalID: 0
     vertices: []
     indices: 
@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Smartphone_32x32_1_0: -1172417978
+      Smartphone_32x32_1_1: 2111170436
+      Smartphone_32x32_1_2: -730814857
+      Smartphone_32x32_1_3: -542425796
+      Smartphone_32x32_1_4: -371023356
+      Smartphone_32x32_1_5: -666262815
+      Smartphone_32x32_1_6: 1551353041
+      Smartphone_32x32_1_7: 1543724810
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

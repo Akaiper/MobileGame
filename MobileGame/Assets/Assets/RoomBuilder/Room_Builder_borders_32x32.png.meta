@@ -4072,28 +4072,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Room_Builder_borders_32x32_178
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 128
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6e5c7dbacfa4eee49a8bee354b197d31
-      internalID: 195284115
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Room_Builder_borders_32x32_179
       rect:
         serializedVersion: 2
@@ -4600,28 +4578,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Room_Builder_borders_32x32_202
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 96
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b1d03d2ebc447bd48a717f4127ebbd28
-      internalID: -404974898
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Room_Builder_borders_32x32_203
       rect:
         serializedVersion: 2
@@ -4952,28 +4908,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Room_Builder_borders_32x32_218
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f7274c5cb6943f5479db9a739c31b319
-      internalID: -2106141654
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Room_Builder_borders_32x32_219
       rect:
         serializedVersion: 2
@@ -5277,28 +5211,6 @@ TextureImporter:
       bones: []
       spriteID: 1af3217a757c871469241f555355cd70
       internalID: -715066655
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Room_Builder_borders_32x32_233
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 32559892dafa0494ca26e5f78c9a2103
-      internalID: -401514178
       vertices: []
       indices: 
       edges: []

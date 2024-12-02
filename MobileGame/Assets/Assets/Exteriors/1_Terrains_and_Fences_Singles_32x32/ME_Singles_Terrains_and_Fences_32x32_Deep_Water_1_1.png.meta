@@ -139,10 +139,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e8c825b493642c530800000000000000
-      internalID: 3873735841382829198
+      spriteID: 5c541cb0818f34f4d9440f57d54d3f0f
+      internalID: 1558243749
       vertices: []
       indices: 
       edges: []
@@ -151,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 15a78d9e380f5fa4490e7f3628fa326d
     internalID: 0
     vertices: []
     indices: 
@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Terrains_and_Fences_32x32_Deep_Water_1_1_0: 1558243749
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

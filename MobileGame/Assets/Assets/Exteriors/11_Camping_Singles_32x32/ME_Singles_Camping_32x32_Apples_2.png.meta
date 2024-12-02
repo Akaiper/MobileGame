@@ -129,20 +129,20 @@ TextureImporter:
       name: ME_Singles_Camping_32x32_Apples_2_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 3
-        width: 26
-        height: 26
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2519afd9014425340800000000000000
-      internalID: 4851014586792055122
+      spriteID: 3e854dbf8512e6b4cac23571a032c602
+      internalID: 1154821241
       vertices: []
       indices: 
       edges: []
@@ -151,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 4163260da4e985546b0822ef72e7a886
     internalID: 0
     vertices: []
     indices: 
@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ME_Singles_Camping_32x32_Apples_2_0: 1154821241
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
