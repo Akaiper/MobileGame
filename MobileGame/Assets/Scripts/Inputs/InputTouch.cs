@@ -14,7 +14,7 @@ namespace UFF
 
         [SerializeField]
         //botar pra ser uma linhazinha q mexe
-        private float limite;
+        private float threshold;
 
         private Vector2 dir;
 
@@ -26,7 +26,7 @@ namespace UFF
             TouchSimulation.Enable();
 
             initialTouch = Vector2.zero;
-            //limite = 5f;
+            
         }
 
         // Update is called once per frame
@@ -36,7 +36,7 @@ namespace UFF
             {
                 currentTouch = Input.GetTouch(0).position;
 
-               Debug.Log("a");
+              
 
                 if(Input.GetTouch(0).phase == TouchPhase.Began)
                 {
@@ -44,7 +44,7 @@ namespace UFF
                 }
                 
 
-                if(Vector2.Distance(initialTouch,currentTouch) > limite)
+                if(Vector2.Distance(initialTouch,currentTouch) > threshold)
                 {
                     dir = currentTouch - initialTouch;
 
@@ -55,12 +55,12 @@ namespace UFF
                         if(dir.x > 0)
                         {
                             TouchDirection?.Invoke(new Vector2(1,0));
-                            Debug.Log("right");
+                            
                         }
                         else if(dir.x < 0)
                         {
                             TouchDirection?.Invoke(new Vector2(-1,0));
-                            Debug.Log("left");
+                            
                         }
                     }
                     else if(math.abs(dir.x) < math.abs(dir.y))
@@ -68,12 +68,12 @@ namespace UFF
                         if(dir.y > 0)
                         {
                             TouchDirection?.Invoke(new Vector2(0,1));
-                            Debug.Log("up");
+                            
                         }
                         else if(dir.y < 0)
                         {
                             TouchDirection?.Invoke(new Vector2(0,-1));
-                            Debug.Log("down");
+                           
                         }
                     }
                 }
