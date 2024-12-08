@@ -55,43 +55,82 @@ namespace UFF
 
         public UnityEvent<Vector2> SendDirection;
 
+        private bool vertical;
+        private bool horizontal;
+
         private void Update()
         {
             CalcDirection();
         }
 
-        private void CalcDirection()
+        private bool GetKeys(KeyCode[] keys)
         {
-            foreach(KeyCode key in rightButtons)
+            foreach (KeyCode item in keys)
             {
-                if(Input.GetKey(key))
+                if(Input.GetKey(item))
                 {
-                    SendDirection?.Invoke(new Vector2(1,0));
+                    return true;
                 }
             }
+            return false;
+        }
 
-            foreach(KeyCode key in leftButtons)
+        private bool TestHorizontal()
+        {   
+            bool hbool;
+
+            hbool = false;
+
+            if(GetKeys(rightButtons) )
             {
-                if(Input.GetKey(key))
-                {
-                    SendDirection?.Invoke(new Vector2(-1,0));
-                }
+                hbool = true;
+
+                SendDirection?.Invoke(new Vector2(1,0));
             }
 
-            foreach(KeyCode key in upButtons)
+            if(GetKeys(leftButtons))
             {
-                if(Input.GetKey(key))
-                {
-                    SendDirection?.Invoke(new Vector2(0,1));
-                }
+                hbool = true;
+
+                SendDirection?.Invoke(new Vector2(-1,0));
+            }
+            return hbool;
+        }
+
+        private bool TestVertical()
+        {
+           bool vbool;
+
+            vbool = false;
+
+            if(GetKeys(upButtons) )
+            {
+                vbool = true;
+
+                SendDirection?.Invoke(new Vector2(0,1));
             }
 
-            foreach(KeyCode key in downButtons)
+            if(GetKeys(downButtons))
             {
-                if(Input.GetKey(key))
-                {
-                    SendDirection?.Invoke(new Vector2(0,-1));
-                }
+                vbool = true;
+
+                SendDirection?.Invoke(new Vector2(0,-1));
+            }
+
+            return vbool;
+        }
+
+        private void CalcDirection()
+        {   
+
+            if(!vertical)
+            {
+                horizontal = TestHorizontal();
+            }
+
+            if(!horizontal)
+            {
+                vertical = TestVertical();
             }
 
             
