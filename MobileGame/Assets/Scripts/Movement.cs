@@ -16,14 +16,16 @@ namespace UFF
         // Update is called once per frame
         void Update()
         {
-            transform.position += direction * Time.deltaTime * _speed;
-
-            direction = Vector2.zero;
+            
         }
 
         public void RecieveDirection(Vector2 dir)
         {
             direction = dir;
+
+            transform.position += direction * Time.deltaTime * _speed;
+
+            direction = Vector2.zero;
         }
     }
 }
